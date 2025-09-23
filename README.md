@@ -9,7 +9,7 @@ BeauAMP-Daily v1.0.0
 BeauAMP-Daily is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. For source availability and license information see `licence.txt`
 
 * **GitHub repo:** https://github.com/AdrienDeschampsAU/BeauAMP-Daily
-* **Data:** ---
+* **Data:** https://zenodo.org/records/17187786
 * **Contact:** Adrien Deschamps <adrien.deschamps@univ-avignon.fr>
  
 -------------------------------------------------------------------------
@@ -17,7 +17,7 @@ BeauAMP-Daily is a free software: you can redistribute it and/or modify it under
 # Description
 These scripts create the BeauAMP-daily database v.1.0.0 from contract and award notices published on the BOAMP (Bulletin Officiel des Annonces des Marchés Publics) under the Eforms format for public contracts that exceed European advertising threshold from January 1 2024. BeauAMP-Daily enhances this data by processing textual information into tabulars and adding individual information on contracting authorities and awarded firms through the estimation of SIREN identifiers and geolocation.
 
-The produced database is directly available on Zenodo (---).
+The produced database is directly available on [Zenodo](https://zenodo.org/records/17187786).
 
 This work has been financed by CAP Territoires (Centrale d'achat public des territoires).
 
