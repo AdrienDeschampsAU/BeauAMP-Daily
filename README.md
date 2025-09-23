@@ -6,7 +6,7 @@ BeauAMP-Daily v1.0.0
 
 * Copyright 2025 Adrien DESCHAMPS
 
-BeauAMP-Daily is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. For source availability and license information see `licence.txt`
+BeauAMP-Daily is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation. For source availability and license information see `licence.txt`
 
 * **GitHub repo:** https://github.com/AdrienDeschampsAU/BeauAMP-Daily
 * **Data:** ---
