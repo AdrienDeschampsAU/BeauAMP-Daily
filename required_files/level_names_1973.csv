@@ -1,0 +1,804 @@
+﻿code;name
+U01;Agriculture, forestry, fishing
+U02;Agricultural and food industries
+U03;Energy production and distribution
+U04;Intermediate goods industries
+U05;Capital goods industry
+U06;Consumer goods industry
+U07;Building, civil engineering and agricultural industries
+U08;Trade
+U09;Transport and telecommunications
+U10;Commercial services
+U11;Real estate rental
+U12;Insurance
+U13;Financial institutions
+U14;Non-market services
+U19;"Foreign diplomatic representation in France; international organizations"
+T01;Agriculture, forestry, fishing
+T02;Meat and dairy industries
+T03;Other agricultural and food industries
+T04;Production of solid mineral fuels and coking
+T05;Oil and natural gas production
+T06;Electricity production and distribution, gas and water distribution
+T07;Production of ores and ferrous metals, primary steel processing
+T08;Production of non-ferrous ores, metals and semi-finished products
+T09;Production of building materials and miscellaneous minerals
+T10;Glass industry
+T11;Basic chemicals, synthetic yarn and fiber production
+T13;Foundry and metalworking
+T21;Paper and cardboard industries
+T23;Rubber industry, plastics processing
+T14;Mechanical engineering
+T15;Electrical and electronics engineering
+T16;Manufacture of motor vehicles and other ground transportation equipment
+T17;Shipbuilding, aerospace and armaments
+T12;Parachemistry and pharmaceuticals
+T18;Textile and clothing industries
+T19;Leather and footwear industries
+T20;"Wood and furniture industries; miscellaneous industries"
+T22;Printing, press and publishing
+T24;Building, civil and agricultural engineering industries
+T25;Food wholesale
+T26;Non-food wholesale
+T27;Food retailing
+T28;Non-food retail
+T31;Transport
+T32;Telecommunications and post
+T29;Automotive repair and trade
+T30;Hotels, cafés, restaurants
+T33;Market services mainly to businesses
+T34;Market services mainly to private individuals
+T35;Real estate rental and leasing
+T36;Insurance
+T37;Financial institutions
+T38;Non-market services
+T49;"Foreign diplomatic representation in France; international organizations"
+01;Agriculture
+02;Forestry and logging
+03;Fishing
+35;Meat industry
+36;Dairy industry
+37;Canning industry
+38;Bakery and pastry-making
+39;Grain processing
+40;Manufacture of miscellaneous food products
+41;Manufacture of beverages and spirits
+42;Tobacco processing
+04;Production of solid mineral fuels and coking
+05;Petroleum and natural gas production
+06;Electricity generation and distribution
+07;Gas distribution
+08;Water supply and district heating
+09;Iron ore mining and processing
+10;Iron and steel industry
+11;Primary steel processing
+12;Non-ferrous ore extraction and processing
+13;Metallurgy and primary processing of non-ferrous metals
+14;Production of various minerals
+15;Production of building materials and ceramics
+16;Glass industry
+17;Basic chemical industry
+43;Artificial and synthetic yarns and fibers industry
+20;Foundry
+21;Metalworking
+50;Paper and cardboard industry
+52;Rubber industry
+53;Plastics processing
+22;Manufacture of agricultural machinery
+23;Manufacture of machine tools
+24;Production of industrial equipment
+25;Manufacture of handling equipment, mining, steel and civil engineering equipment
+34;Manufacture of precision instruments and equipment
+27;Manufacture of office machinery and information processing equipment
+28;Manufacture of electrical equipment
+29;Manufacture of household and professional electronic equipment
+30;Manufacture of household equipment
+31;Manufacture of motor vehicles and other ground transportation equipment
+26;Armaments industry
+32;Shipbuilding
+33;Aircraft manufacturing
+18;Parachemistry
+19;Pharmaceutical industry
+44;Textile industry
+47;Clothing industry
+45;Leather industry
+46;Footwear industry
+48;Mechanical woodworking
+49;Furniture industry
+54;Miscellaneous industries
+51;Printing, press, publishing
+55;Building, civil and agricultural engineering industry
+57;Food wholesale
+58;Non-food wholesale
+59;Inter-industrial wholesale
+60;Trade intermediaries
+61;Large-scale general food retailing
+62;Local or specialized food retailing
+63;Non-specialized non-food retail
+64;Specialized non-food retail
+68;Rail transport
+69;Road transport, urban transport, driving transport
+70;Inland shipping
+71;Shipping and coastal navigation
+72;Air transport
+73;Activities incidental to transport and warehousing
+74;Transport auxiliaries and travel agencies
+75;Telecommunications and postal services
+65;Automotive repair and trade
+67;Hotels, cafés, restaurants
+56;Recycling
+76;Holding companies
+77;Research, consulting and assistance activities
+78;Financial and insurance auxiliaries
+79;Developers and real estate companies
+80;Rental of domestic and industrial goods
+82;Education (market services)
+83;Research (market services)
+66;Miscellaneous repairs
+84;Health (market services)
+85;Social welfare (market services)
+86;Recreational, cultural and sporting services (market services)
+87;Miscellaneous services (market)
+81;Real estate rental
+88;Insurance
+89;Financial institutions
+90;General administration
+91;Welfare and social security
+92;Education (non-market services)
+93;Research (non-market services)
+94;Health (non-market services)
+95;Social welfare (non-market services)
+96;Recreational, cultural and sporting services (non-market)
+97;Miscellaneous community services (non-market)
+98;Domestic services
+99;"Foreign diplomatic representation in France; international organizations"
+01.00;General cultures
+01.07;General crops associated with other agricultural activities
+01.10;"Production of fresh vegetables, flowers; nurseries"
+01.16;Fruit growing
+01.17;Viticulture
+01.30;Wine-making
+01.50;Cattle breeding
+01.56;Cattle breeding combined with other agricultural activities
+01.57;Sheep, goat and horse breeding
+01.60;Pig farming
+01.63;Poultry farming
+01.70;Miscellaneous agricultural production
+01.74;Hunting and trapping
+01.80;Agricultural contract work
+01.90;Livestock services
+02.10;Forestry and forest services
+02.20;Forest harvesting
+03.10;Sea fishing
+03.20;Shellfish farming
+03.30;Fish farming and freshwater fishing
+03.40;Cultivation and harvesting of various marine products
+35.01;Livestock slaughtering
+35.04;Manufacture of charcuterie and canned meats
+35.05;Poultry slaughtering
+36.10;Dairy industry
+36.20;Ice cream and sherbet production
+37.01;Fruit and jam canning
+37.02;Vegetable canning
+37.03;Fish canning
+37.04;Preparation of ready-made meals
+38.10;Industrial production of fresh bread and pastries
+38.40;Bakery, pastry
+38.50;Pastry
+39.01;Milling
+39.02;Cookie making
+39.03;Semolina
+39.04;Pasta and couscous production
+39.05;Coarse grain processing
+39.06;Malting
+39.07;Starch products
+39.08;Animal feed manufacture
+40.11;Manufacture of crude oils and fats
+40.12;Manufacture of refined oils and fats and margarine
+40.21;Sugar refineries
+40.31;Chocolate and confectionery
+40.32;Roasting and burning of coffee, tea, chicory and infusions, preparation of spices and aromatic herbs
+40.33;Manufacture of condiments, vinegar, prepared sauces
+40.34;Manufacture of dietetic foods, baby foods, diet products
+40.35;Manufacture of puddings, household desserts and breakfasts
+40.36;Manufacture of broths and soups
+40.37;Manufacture of various food products
+41.01;Alcohol distillation
+41.02;Distillation of natural brandies
+41.03;Production of liqueurs and non-wine-based alcoholic aperitifs
+41.04;Production of wine-based aperitifs
+41.05;Champagnisation
+41.06;Brewery
+41.07;Cider-making
+41.08;Fruit and vegetable juice production
+41.09;Manufacture of non-alcoholic beverages
+41.10;Natural mineral water production
+42.01;Tobacco processing
+04.11;Production of solid mineral fuels
+04.21;Coking
+05.11;Petroleum extraction
+05.21;Natural gas extraction
+05.31;Petroleum refining
+06.01;Electricity generation and distribution
+07.01;Gas distribution
+08.01;Water production and distribution
+08.02;District heating and energy distribution
+09.01;Iron ore mining and processing
+10.01;Iron and steel industry
+11.01;Steel wire drawing and production of steel wire derivatives
+11.02;Cold rolling of steel strip
+11.03;Drawing and profiling of solid steel products
+11.04;Shaping of flat steel products
+11.05;Steel tube production
+12.01;Bauxite mining and processing
+12.02;Extraction and processing of lead, zinc and copper ores
+12.03;Extraction of ores containing fissile materials and iron
+12.04;Mining and processing of other metal ores
+13.01;Metallurgy of aluminum and other light metals
+13.02;Metallurgy of lead, zinc and cadmium
+13.03;Metallurgy of precious metals
+13.04;Ferroalloys metallurgy
+13.05;Production of other non-ferrous metals
+13.10;Manufacture of semi-finished aluminium and other light metals
+13.11;Manufacture of lead, zinc and cadmium semi-finished products
+13.12;Manufacture of copper semi-finished products
+13.13;Manufacture of precious metal semi-finished products
+13.14;Manufacture of other non-ferrous semi-finished products
+13.15;Production and processing of fissile materials
+13.16;Production and processing of fertile materials
+14.01;"Salt production (sodium chloride and various salts); salt marshes"
+14.02;Production of quarry materials for industry
+14.03;Production of various minerals: asphalt, talcum powder, etc.
+15.01;Extraction of alluvial sand and gravel
+15.02;Production of crushed rock and slag materials
+15.03;Production of building stone
+15.04;Extraction of clays, kaolin and refractory earths
+15.05;Manufacture of plaster and plaster products
+15.06;Manufacture of lime and cement
+15.07;Preparation and delivery of ready-mix concrete
+15.08;Manufacture of concrete products
+15.09;Manufacture of miscellaneous building materials
+15.10;Manufacture of tiles and bricks
+15.11;Manufacture of refractory products
+15.12;Manufacture of stoneware, earthenware and other ceramic products
+15.13;Manufacture of ceramic tableware
+16.01;Manufacture of flat glass and mirrors
+16.02;Manufacture of mechanical hollow glass and household glassware
+16.03;Manufacture of glass by hand
+16.04;Manufacture of technical glass
+17.12;Sulfuric acid and derivatives industry
+17.13;Manufacture of chemicals by electrolysis or electrothermics
+17.14;Manufacture of compressed gases
+17.15;Manufacture of mineral opacifiers, compositions and enamel colors
+17.16;Manufacture of various inorganic chemical products
+17.17;Manufacture of nitrogen fertilizers and other nitrogen products
+17.18;Manufacture of phosphate fertilizers
+17.19;Manufacture of other fertilizers
+17.21;Synthetic organic chemicals
+17.22;Manufacture of synthetic colorants
+17.23;"Chemical processing of fats and oils, in particular stearin and glycerine; manufacture of basic detergent products"
+17.24;Manufacture of basic pharmaceutical products
+17.25;Manufacture of auxiliary products for the textile, leather and rubber industries, processing of animal and vegetable materials
+17.26;Manufacture and distillation of tars
+17.27;Manufacture of plastics
+17.28;Manufacture of synthetic rubber and other elastomers
+17.29;Manufacture of essential oils, natural and synthetic aromas
+43.01;Production of staple fibers and man-made filament yarns
+43.02;Production of synthetic staple fibers and filament yarns
+20.01;Ferrous metal foundry
+20.02;Non-ferrous metal casting
+21.01;Forging, stamping, die-forging
+21.02;Cutting and stamping
+21.03;Metal treatment and coating
+21.04;Bar turning
+21.05;Fasteners, screws
+21.06;Metal construction
+21.07;Building metal joinery
+21.08;General mechanical engineering, mold and pattern making
+21.09;Manufacture of hand tools, power tools, agricultural tools
+21.10;Spring manufacturing
+21.11;Manufacture of hardware
+21.12;Tinsmithing, manufacture of household articles, cutlery
+21.13;Manufacture of metal furniture
+21.14;Manufacture of metal drums and barrels, metal boxes and packaging Manufacture of metal packaging
+21.15;Manufacture of small metal items
+21.16;Metal sintering, manufacture of permanent magnets
+21.17;Manufacture of hunting, shooting and defensive weapons
+50.01;Manufacture of paper pulp
+50.02;Manufacture of paper and cardboard
+50.03;Manufacture of stationery
+50.04;Paper processing
+50.06;Manufacture of corrugated board and corrugated board products
+50.07;Manufacture of cardboard boxes
+52.01;Manufacture of tires and inner tubes
+52.02;Industrial tire retreading and repair
+52.03;Manufacture of rubber products
+52.04;Manufacture of asbestos products
+53.01;Manufacture of mixes, sheets, films, tubes, pipes and profiles
+53.02;Manufacture of miscellaneous parts for industry
+53.03;Manufacture of plastic packaging
+53.04;Manufacture of building components
+53.05;Manufacture of various consumer products
+53.06;Manufacture of cellulose film
+22.01;Manufacture of agricultural tractors
+22.02;Manufacture of other agricultural equipment
+23.01;Manufacture of metalworking machine tools
+23.02;Manufacture of woodworking machinery
+23.03;Manufacture of tools, machine tools
+23.04;Manufacture of gears and transmission components
+23.05;Manufacture of welding equipment
+24.01;Fittings
+24.02;Manufacture and installation of furnaces
+24.03;Manufacture and installation of aeraulic, thermal and refrigeration equipment
+24.04;Manufacture of internal combustion engines other than for automobiles and aircraft
+24.05;Manufacture of hydraulic and pneumatic transmissions
+24.06;Manufacture of pumps and compressors
+24.07;Manufacture of thermal and hydraulic turbines and dam equipment
+24.08;Boilermaking
+24.09;Manufacture of machinery for the food, chemical, plastics and footwear industries
+24.10;Manufacture of textile machinery and industrial sewing machines
+24.11;Manufacture of machinery for the paper, cardboard and graphic arts industries
+25.01;Manufacture of public works equipment
+25.02;Manufacture of equipment for the iron and steel industry, foundries, material preparation, stationary railroad equipment
+25.03;Manufacture of handling and lifting equipment
+25.04;Manufacture of mining and drilling equipment
+34.01;Watchmaking
+34.02;Manufacture of weighing and counting devices, metrology instruments
+34.03;Manufacture of corrective and protective eyewear
+34.04;Manufacture of optical and precision instruments
+34.05;Manufacture of photographic and cinematographic equipment
+34.06;Manufacture of medical and surgical equipment and prostheses
+34.07;Manufacture of bearings
+27.01;Manufacture of information processing equipment
+27.02;Manufacture of office machinery
+28.10;"Manufacture of low-voltage distribution and control equipment; power electronics applications"
+28.11;Manufacture of high-power and high-voltage electrical equipment
+28.12;Manufacture of low-voltage industrial switchgear, relays and signalling equipment
+28.13;Manufacture of small and medium-power rotating machines and electrical transformers
+28.14;Manufacture of insulators and insulating parts in glass and ceramics
+28.15;Manufacture of industrial process automation equipment
+28.16;Repair of large electrical equipment
+28.17;Manufacture of lighting equipment
+28.18;Manufacture of insulated electrical wire and cable
+28.19;Manufacture and installation of elevators and escalators
+28.21;Manufacture of electrical installation equipment
+28.22;Manufacture of batteries and low-voltage lighting equipment
+28.23;Manufacture of accumulators
+28.24;Manufacture of electric lamps
+29.11;Manufacture of telegraph and telephone equipment
+29.12;Manufacture of radiology equipment and medical electronics
+29.13;Manufacture of control and regulation equipment specifically designed for industrial automation, electrical and electronic measuring instruments and devices.
+29.14;Manufacture of professional electronic and radio equipment
+29.15;Manufacture of passive components and fixed capacitors
+29.16;Manufacture of electronic tubes and semiconductors
+29.21;Manufacture of radio receivers and televisions
+29.22;Manufacture of sound and image recording and reproducing equipment and recording media
+30.01;Manufacture of domestic refrigerating appliances, washing machines and dishwashers
+30.02;Manufacture of non-electric domestic cooking appliances, water heaters and air heaters
+30.03;Manufacture of other household appliances
+31.11;Manufacture of passenger cars
+31.12;Manufacture of touring caravans and trailers
+31.13;Manufacture of specific parts and equipment for automobiles
+31.14;Manufacture of commercial vehicles
+31.15;Manufacture of non-touring bodies, tippers and trailers
+31.16;Manufacture of motorcycles and cycles
+31.17;Manufacture of parts and equipment for cycles and motorcycles
+31.21;Manufacture and repair of railway rolling stock and other guide transport equipment
+26.01;Manufacture of armoured vehicles
+26.02;Manufacture of weapons and munitions of war
+32.01;Construction of warships
+32.02;Merchant navy shipbuilding
+32.03;Construction of other boats
+32.04;Manufacture and installation of specific on-board equipment
+32.05;Ship repair
+33.01;Airframe construction
+33.02;Manufacture of aircraft thrusters and thruster equipment
+33.03;Manufacture of special equipment for aircraft
+33.04;Construction of spacecraft and launchers
+18.01;Manufacture of matches
+18.02;Manufacture of coated abrasives
+18.03;Manufacture of explosives, firing accessories and fireworks
+18.04;Glue manufacture
+18.05;Manufacture of soap and detergents
+18.06;Manufacture of household and cleaning products
+18.07;Manufacture of paints, varnishes, fine colors and printing inks
+18.08;Manufacture of phytosanitary products
+18.09;Manufacture of photographic and cinematographic products
+18.10;Manufacture of artificial carbon, active earths and chemical products for metallurgical and mechanical use
+18.11;Perfumery
+19.01;Manufacture of pharmaceutical specialties
+19.02;Manufacture of other pharmaceutical products
+44.10;Preparation of and trade in wool, wool scutching
+44.11;Preparation of flax, hemp and other textile plants
+44.12;Filtering
+44.13;Flax and hemp spinning
+44.14;Cotton industry spinning mills
+44.15;Wool industry spinning - carded cycle
+44.16;Wool industry spinning mills - combed cycle
+44.17;Milling and texturing of silk and artificial and synthetic textiles
+44.18;Dyeing, finishing and printing
+44.20;Manufacture of knitted fabrics
+44.21;Manufacture of sweaters, pullovers, polo shirts, vests, etc. Hosiery
+44.22;Manufacture of other knitted or crocheted outerwear
+44.23;Manufacture of knitted underwear
+44.24;Manufacture of knitted and crocheted footwear
+44.25;Manufacture of other knitted and crocheted articles
+44.30;Weaving for the cotton and linen industries
+44.31;Wool industry weaving
+44.32;Silk weaving
+44.33;Jute industry
+44.34;Carpet manufacture
+44.35;Felt manufacture
+44.36;Manufacture of non-woven and knitted fabrics
+44.37;Fabric coating
+44.38;Manufacture of elastic textile products
+44.39;Twine, cordage and net manufacture
+44.40;Upholstery
+44.41;Manufacture of lace, tulle, embroidery and guipure
+44.42;Manufacture of ribbons, braids, trimmings and miscellaneous textile articles
+47.01;Manufacture of men's clothing
+47.02;Manufacture of women's clothing
+47.03;Children's clothing
+47.04;Made-to-measure clothing
+47.05;Shirt and lingerie manufacturing
+47.06;Plastic garment manufacturing
+47.07;Manufacturing of corsets, girdles and bras
+47.08;Manufacture of hats for men and women
+47.09;Manufacture of various clothing accessories
+47.10;Manufacture of furs and fur products
+45.11;Tannery, leather goods
+45.21;Manufacture of leather goods, travel and hunting goods
+45.22;Manufacture of gloves
+45.23;Manufacture of miscellaneous leather and leather products
+46.01;Manufacture of shoes and other footwear
+48.01;Sawmills
+48.02;Manufacture of building carpentry and joinery
+48.03;Manufacture of parquet flooring, mouldings and mouldings
+48.04;Manufacture and processing of panels, veneer, improved and treated wood
+48.05;Manufacture of wood packaging
+48.06;Manufacture of lightweight prefabricated buildings
+48.07;Manufacture of various wooden objects
+49.01;Manufacture of furniture
+49.02;Seat manufacture
+49.03;Manufacture of kitchen furniture and white wood furniture
+49.04;Manufacture of bedding
+49.05;Manufacture of miscellaneous furniture and related industries
+49.06;Manufacture of non-metallic functional furniture
+54.01;Manufacture of games, toys and childcare articles
+54.02;Manufacture of sporting goods and camping equipment
+54.03;Manufacture of pleasure boats
+54.04;Jewelry and jewelry accessories
+54.05;Manufacture of musical instruments
+54.06;Manufacture of office supplies and betting articles
+54.07;Manufacture of bronze and wrought-iron furniture accessories, statuettes and funeral articles
+54.08;Manufacture of brushware, wickerwork and cork products
+54.09;Photographic and cinematographic laboratories
+54.10;Manufacture of sundries not elsewhere specified
+51.01;Press agencies
+51.10;Commercial printing
+51.11;Printing-related industries
+51.12;Publishing
+51.20;Press
+51.30;Record, tape and cassette publishing
+55.10;"Land and water development; roads; parks and gardens"
+55.11;Construction of electricity transmission lines
+55.12;General infrastructure works
+55.13;Pavement construction
+55.20;"Drilling and boring contractors; special foundations"
+55.30;Non-metal frame construction
+55.31;Industrial installation, assembly and lifting
+55.40;Electrical installation
+55.50;Industrial construction
+55.60;Masonry and standard reinforced concrete work
+55.70;Climatic engineering
+55.71;Carpentry and ironwork
+55.72;Roofing, plumbing, sanitary installations
+55.73;Fittings and finishing
+57.01;Wholesale of agricultural raw materials
+57.02;Livestock wholesale
+57.03;Wholesale of fruit and vegetables
+57.04;Wholesale of meat without slaughter
+57.05;Wholesale of dairy products
+57.06;Wholesale of poultry and game
+57.07;Fish wholesale
+57.08;Wholesale of wines, spirits and liqueurs
+57.09;Wholesale of other beverages
+57.10;Wholesale of groceries
+57.11;Specialized wholesale of miscellaneous food products
+58.01;Wholesale of car accessories and garage equipment
+58.02;Wholesale of tires, cycles and motorcycles
+58.03;Wholesale of hardware and household appliances
+58.04;Wholesale of electrical and electronic equipment
+58.05;Wholesale of textiles
+58.06;Wholesale of clothing, footwear and leather goods
+58.07;Wholesale of pharmaceutical products
+58.08;Wholesale of perfume and cosmetics
+58.09;Wholesale of hardware and household products
+58.10;Wholesale of ceramics and glassware
+58.11;Wholesale of toys, stationery and smokers' articles
+58.12;Miscellaneous wholesale
+59.01;Raw textiles
+59.02;Wholesale of hides and skins
+59.03;Wholesale of coal, ores and minerals
+59.04;Wholesale of petroleum products
+59.05;Trade in metals
+59.06;Trade in industrial chemicals
+59.07;Timber trade
+59.08;Trade in building materials, window glass and sanitary appliances
+59.09;Trade in agricultural equipment
+59.10;Trade in industrial equipment and supplies
+59.11;Trade in office equipment and furniture
+59.12;Trade in building and civil engineering equipment
+59.13;Trade in miscellaneous supplies for professional users in trade and services
+59.14;Trade in unprocessed paper and cardboard
+60.01;Trade intermediaries in agricultural raw materials, live animals, textile raw materials and semi-finished products
+60.02;Trade intermediaries in fuels, metals, minerals and chemicals for industry
+60.03;Wholesalers of wood and building materials
+60.04;Agents for the sale of machinery, equipment and vehicles
+60.05;Agents involved in the sale of furniture, household goods and hardware
+60.06;Agents specializing in textiles, clothing, footwear and leather goods
+60.07;Agents specializing in food products
+60.08;Central purchasing agencies for food products
+60.09;Agents specializing in products not elsewhere specified
+60.10;Agents specializing in miscellaneous products (not predominantly)
+60.11;Central purchasing agencies for non-food products
+61.01;Operation of supermarkets
+61.02;Operation of popular stores
+61.03;Operation of hypermarkets
+62.11;Independent general food retailers
+62.12;Operation of independent convenience stores
+62.21;Operation of multi-store general food stores
+62.22;Operation of convenience stores belonging to a multi-store company
+62.30;Company or administrative food cooperatives
+62.41;Fruit and vegetable retailing
+62.42;Retail sale of dairy products
+62.43;Meat retailing
+62.44;Retail sale of fish and shellfish
+62.45;Retail sale of wines and beverages
+62.46;Confectionery and miscellaneous food retailing
+63.01;Department stores
+63.02;Other non-specialized non-food superstores
+63.03;Semi-specialized non-food superstores
+63.04;General assortment mail-order companies
+63.05;Other non-specialized non-food retailers
+64.11;Clothing retail
+64.12;Travel footwear retail
+64.13;Retail sale of leather goods and travel goods
+64.14;Home textiles retail
+64.21;Furniture retail
+64.22;Retail sale of hardware and household appliances
+64.23;Hardware, paint and varnish retailing
+64.24;Retail sale of electrical, radio and household appliances
+64.25;Other household equipment retailing
+64.30;Pharmacies
+64.40;Retail sale of medical and beauty products
+64.41;Retail and repair of motorcycles, cycles and other vehicles
+64.42;Retail sale of coal and fuels
+64.43;Retail sale of books, stationery and office supplies
+64.44;Optical (medical and non-medical) and photographic retailing
+64.45;Retail sale of watches and jewelry
+64.46;Retail sale of flowers, seeds and small pets
+64.47;Retail sale of sporting goods and camping equipment
+64.48;Retail sale of tobacco
+64.49;Miscellaneous retail
+68.01;Rail transport
+69.11;Long-haul road haulage
+69.12;Trucking and short-haul road haulage
+69.21;Urban passenger transport
+69.22;Passenger road transport
+69.23;Cabs
+69.24;Moving
+69.25;Industrial vehicle rental
+69.26;Driving transport
+70.01;River passenger transport
+70.02;River freight transport
+71.01;Sea transport other than of petroleum products
+71.02;Seaborne transport of petroleum products
+71.03;Coastal and estuary shipping
+72.01;Air transport
+73.01;Bus terminals
+73.02;River ports and waterways
+73.03;Seaports
+73.04;Airports
+73.05;Operation of toll roads
+73.06;Parking lot operation
+73.07;Warehouses other than refrigerated
+73.08;Refrigerated warehouses
+73.09;Towing and piloting
+74.01;Sea freight collection
+74.02;Air freight collection
+74.03;Land and river freight collection
+74.04;Port handling
+74.05;Land and river handling
+74.06;Specific activities auxiliary to maritime transport
+74.07;Activities auxiliary to air transport
+74.08;Other transport auxiliaries
+74.09;Travel agencies
+74.10;Routing
+75.01;P.T.T. - common services and research
+75.02;P.T.T. - telecommunications services
+75.03;P.T.T. - postal and financial services
+75.04;Telecommunications activities excl. p.t.t.
+65.01;Retail sale of automotive accessories and equipment
+65.02;Retail sale of fuels and lubricants
+65.03;Sale and repair of motor vehicles
+65.06;Repair of motor vehicles
+67.01;Restaurants and cafés-restaurants (without accommodation)
+67.02;Canteens
+67.03;Caterers
+67.04;Drinks outlets (without entertainment)
+67.05;Coffee shops
+67.06;Pubs with live entertainment
+67.07;Cafés associated with another activity
+67.08;Hotels with restaurant
+67.09;Hotels without restaurant
+67.10;Sleeping cars and dining cars
+67.11;Student and young worker hostels, university residences
+67.12;Accommodation facilities with developed equipment
+67.13;Lightly-equipped accommodation facilities
+56.01;Recovery of scrap and old non-ferrous metals
+56.02;Recovery of miscellaneous products
+76.00;Holding companies
+77.01;Technical consulting firms
+77.02;Economic and sociological consulting firms
+77.03;IT and organization consultancies
+77.04;IT contract work
+77.05;Architectural firms
+77.06;Quantity surveying firms
+77.07;Information and documentation consultancy firms
+77.08;Law firms and public and ministerial offices
+77.09;Accounting and financial analysis firms
+77.10;Advertising designers and intermediaries
+77.11;Advertising agencies
+77.12;Miscellaneous contract work
+77.13;Temporary personnel services
+77.14;Miscellaneous services provided mainly to companies
+77.15;Professional associations and unions
+78.01;Financial auxiliaries
+78.02;Insurance auxiliaries
+79.01;Real estate development
+79.02;Infrastructure development (commercial services)
+79.03;Legal support for programs
+79.04;Property management
+79.05;Infrastructure management
+79.06;Real estate agencies
+80.01;Agricultural machinery and equipment rental
+80.02;Construction and public works equipment rental
+80.03;Office equipment rental
+80.04;Passenger car rental
+80.05;Railcar rental
+80.06;Consumer goods leasing
+80.07;Equipment leasing
+80.08;Rental of other capital goods
+82.01;General primary and secondary education (market services)
+82.02;Adult and continuing education (market services)
+82.03;Other specialized and vocational education and higher education (market services)
+82.04;Correspondence education (market services)
+82.05;Independent teachers
+82.06;Driving schools
+83.01;Scientific and technical research (market services)
+66.01;Repair of shoes and other leather goods
+66.02;Repair of electrical household appliances
+66.03;Repair of jewelry watches and clocks
+66.04;Repairs not elsewhere specified and without specialization
+84.01;Systematic and screening medicine (market services)
+84.02;General hospitals
+84.03;General clinics
+84.04;Specialized hospitals
+84.05;Specialized clinics
+84.06;Dispensaries
+84.07;Other health institutes
+84.08;Outpatient medical analysis laboratories
+84.09;Blood transfusion centers and organ banks
+84.10;Doctor's offices
+84.11;Dental offices
+84.12;Physicians' offices
+84.13;Ambulances
+84.14;Veterinarians, veterinary clinics
+85.01;Crèches
+85.02;Establishments for protected, handicapped or maladjusted children (market services)
+85.03;Establishments for needy, disabled or maladjusted adults (market services)
+85.04;Establishments for the elderly
+86.01;Radio and television broadcasting
+86.02;Film production
+86.03;Film distribution
+86.04;Management of movie theaters
+86.05;Venue management (market services)
+86.06;Other entertainment and recreational services (market services)
+86.07;Literary and artistic creation and performance (market services)
+86.08;Services ancillary to entertainment
+86.09;Games of chance and gambling
+86.10;Management of sports facilities and centers (market services)
+86.11;Ski lifts
+86.12;Sports teachers and sports professionals
+87.01;Retail laundries and dry cleaners
+87.02;Laundries and dry cleaners (wholesale)
+87.03;Hairdressing salons
+87.04;Body esthetics
+87.05;Funeral services
+87.06;Photography studios
+87.07;Miscellaneous personal services
+87.08;Cleaning services
+87.09;Refuse collection (market services)
+87.10;Other sanitation services (market services)
+81.11;Rental of dwellings
+81.21;Rental of industrial and commercial buildings
+81.22;Real estate leasing
+88.01;Life and capitalization insurance
+88.02;Property and casualty insurance
+88.03;Reinsurance
+88.04;Insurance governed by the mutual insurance code
+88.05;Pension funds governed by insurance legislation
+89.01;Instituts d'émission
+89.02;Deposit, merchant, long and medium-term credit banks
+89.03;Cooperative and mutual credit
+89.04;Financial institutions and economic unions
+89.05;Financial organizations with special legal status
+89.06;Organizations distributing collective bond issues
+89.07;Securities investment companies
+90.01;Public authorities
+90.02;Central government
+90.03;External services of economic and financial administrations
+90.04;Other government agencies
+90.05;Miscellaneous specialized administrative activities
+90.11;Local government
+90.12;Infrastructure development (public non-market services)
+90.13;Roads and sewerage (non-market public services)
+90.21;Courts and tribunals
+90.22;Correctional facilities
+90.23;Correctional facilities
+90.24;National Police
+90.25;Protection civile
+90.26;Gendarmerie
+90.31;Military territorial commands
+90.32;Forces and force infrastructures
+90.33;Depots, warehouses and military supply organizations
+90.34;Military schools
+90.35;Military health service
+90.36;Military laboratories and testing centers
+91.01;General social security organizations
+91.02;Social security: sickness, maternity, industrial accidents
+91.03;Social security: old age
+91.04;Non-insurance pension funds
+91.05;Social security: family allowances
+91.06;Unemployment insurance and other income maintenance guarantees
+92.11;Pre-school education (public non-market services)
+92.12;Elementary education (public non-market services)
+92.13;Lower secondary education (public non-market services)
+92.14;Secondary education (public non-market services)
+92.15;Higher education (public non-market services)
+92.16;Artistic education (public non-market services)
+92.17;Training of civil servants (public non-market services)
+92.18;Adult and continuing education (public non-market services)
+92.21;Education (private non-market services)
+93.11;Scientific and technical research (public non-market services)
+93.21;Scientific and technical research (private non-market services))
+94.11;Systematic medicine and screening (public non-market services)
+94.21;Systematic medicine and screening (private non-market services))
+95.11;Local social action organizations (public non-market services)
+95.12;Establishments for protected, disabled or maladjusted children (public non-market services)
+95.13;Establishments for needy, disabled or maladjusted adults (public non-market services)
+95.21;Charities and social organizations of general competence (private non-market services)
+95.22;Charities and specialized social organizations (private, non-market services)
+95.23;Establishments for protected, disabled or maladjusted children (private non-market services)
+95.24;Establishments for needy, disabled or maladjusted adults (private non-market services)
+96.11;Management of libraries (public non-market services)
+96.12;Conservation of cultural heritage (public non-market services)
+96.13;Theater management (public non-market services)
+96.14;Management of cultural facilities (public non-market services)
+96.15;Management of socio-educational facilities (public non-market services)
+96.16;Cultural and socio-educational associations (public non-market services)
+96.17;Sports facilities management (public non-market services)
+96.18;Sports associations (public non-market services)
+96.21;Library management and cultural heritage conservation (private non-market services)
+96.22;Management of cultural and socio-educational facilities and other entertainment venues (private non-market services)
+96.23;Cultural and socio-educational associations (private non-market services)
+96.24;Management of sports facilities (private non-market services)
+96.25;Sports associations (private non-market services)
+97.11;Economic organizations (public non-market services)
+97.12;Tourist offices (public non-market services)
+97.21;Trade unions (private non-market services)
+97.22;Religious and philosophical organizations (private non-market services)
+97.23;Other community services (private non-market services)
+98.01;Domestic services
+99.01;"Foreign diplomatic representation in France; international organizations"

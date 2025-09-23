@@ -1,0 +1,1729 @@
+﻿code;name
+A;Agriculture, forestry and fishing
+B;Mining and quarrying
+C;Manufacturing industry
+D;Electricity, gas, steam and air conditioning production and distribution
+E;"Water production and distribution; sewerage, waste management and remediation"
+F;Construction
+G;"Trade; repair of motor vehicles and motorcycles"
+H;Transportation and warehousing
+I;Accommodation and catering
+J;Information and communication
+K;Financial and insurance activities
+L;Real estate activities
+M;Specialized, scientific and technical activities
+N;Administrative and support service activities
+O;Public administration
+P;Education
+Q;Human health and social work
+R;Arts, entertainment and recreation
+S;Other service activities
+T;"Activities of households as employers; undifferentiated activities of households as producers of goods and services for own use"
+U;Extra-territorial activities
+01;Crop and animal production, hunting and related services
+02;Forestry and logging
+03;Fishing and aquaculture
+05;Mining of hard coal and lignite
+06;Extraction of hydrocarbons
+07;Mining of metal ores
+08;Other mining and quarrying
+09;Support services to mining and quarrying
+10;Food industry
+11;Manufacture of beverages
+12;Manufacture of tobacco products
+13;Textile manufacturing
+14;Clothing industry
+15;Leather and footwear industry
+16;"Woodworking and manufacture of articles of wood and cork, except furniture; manufacture of articles of straw and plaiting materials"
+17;Paper and cardboard industry
+18;Printing and reproduction of records
+19;Coking and refining
+20;Chemical industry
+21;Pharmaceutical industry
+22;Manufacture of rubber and plastic products
+23;Manufacture of other non-metallic mineral products
+24;Metallurgy
+25;Manufacture of metal products, except machinery and equipment
+26;Manufacture of computer, electronic and optical products
+27;Manufacture of electrical equipment
+28;Manufacture of machinery and equipment n.e.c.
+29;Automotive industry
+30;Manufacture of other transport equipment
+31;Manufacture of furniture
+32;Other manufacturing industries
+33;Repair and installation of machinery and equipment
+35;Electricity, gas, steam and air conditioning production and distribution
+36;Water collection, treatment and distribution
+37;Wastewater collection and treatment
+38;"Waste collection, treatment and disposal; recovery"
+39;Pollution control and other waste management services
+41;Building construction
+42;Civil engineering
+43;Specialized construction work
+45;Sale and repair of motor vehicles and motorcycles
+46;Wholesale trade, except of motor vehicles and motorcycles
+47;Retail trade, except automobiles and motorcycles
+49;Land and pipeline transport
+50;Water transport
+51;Air transport
+52;Warehousing and auxiliary transport services
+53;Postal and courier activities
+55;Lodging
+56;Catering
+58;Publishing
+59;"Motion picture, video and television program production; sound recording and music publishing"
+60;Programming and broadcasting
+61;Telecommunications
+62;Programming, consulting and other IT activities
+63;Information services
+64;Financial services, except insurance and pension funding
+65;Insurance
+66;Activities auxiliary to financial services and insurance
+68;Real estate activities
+69;Legal and accounting activities
+70;"Activities of head offices; management consulting"
+71;"Architectural and engineering activities; technical testing and analysis activities"
+72;Scientific research and development
+73;Advertising and market research
+74;Other specialized, scientific and technical activities
+75;Veterinary activities
+77;Rental and leasing activities
+78;Employment-related activities
+79;Travel agency, tour operator, reservation service and related activities
+80;Investigation and security
+81;Building services and landscaping
+82;Administrative and other business support activities
+84;"Public administration and defense; compulsory social security"
+85;Education
+86;Human health activities
+87;Medical and social accommodation
+88;Social work activities without accommodation
+90;Creative, artistic and entertainment activities
+91;Libraries, archives, museums and other cultural activities
+92;Gambling and betting activities
+93;Sporting, recreational and leisure activities
+94;Activities of membership organizations
+95;Repair of computers and personal and household goods
+96;Other personal services
+97;Activities of households as employers of domestic personnel
+98;Undifferentiated goods- and services-producing activities of private households for own use
+99;Activities of extra-territorial organizations and bodies
+01.1;Non-permanent crops
+01.2;Permanent crops
+01.3;Plant breeding
+01.4;Animal production
+01.5;Associated crop and livestock farming
+01.6;Agricultural support activities and primary crop processing
+01.7;Hunting, trapping and related services
+02.1;Forestry and other forestry activities
+02.2;Forest harvesting
+02.3;Harvesting of wild-growing non-timber forest products
+02.4;Forestry support services
+03.1;Fishing
+03.2;Aquaculture
+05.1;Hard coal mining
+05.2;Lignite mining
+06.1;Crude oil extraction
+06.2;Natural gas extraction
+07.1;Iron ore mining
+07.2;Extraction of non-ferrous ores
+08.1;Mining of stone, sand and clay
+08.9;Mining and quarrying n.e.c.
+09.1;Support activities for petroleum and natural gas extraction
+09.9;Support activities for other mining and quarrying
+10.1;Processing and preserving of meat and preparation of meat products
+10.2;Processing and preserving of fish, crustaceans and mollusks
+10.3;Processing and preserving of fruit and vegetables
+10.4;Manufacture of vegetable and animal oils and fats
+10.5;Manufacture of dairy products
+10.6;"Grain processing; manufacture of starch products"
+10.7;Manufacture of bakery and pasta products
+10.8;Manufacture of other food products
+10.9;Manufacture of animal feed
+11.0;Manufacture of beverages
+12.0;Manufacture of tobacco products
+13.1;Textile fiber preparation and spinning
+13.2;Weaving
+13.3;Textile finishing
+13.9;Manufacture of other textiles
+14.1;Manufacture of wearing apparel, except fur apparel
+14.2;Manufacture of fur articles
+14.3;Manufacture of knitted and crocheted goods
+15.1;"Finishing and tanning of leather; preparation and dyeing of furs; manufacture of travel goods, leather goods and saddlery"
+15.2;Shoe manufacturing
+16.1;Sawing and planing of wood
+16.2;Manufacture of articles of wood, cork, basketry and straw goods
+17.1;Manufacture of pulp, paper and paperboard
+17.2;Manufacture of articles of paper and paperboard
+18.1;Printing and related services
+18.2;Reproduction of recordings
+19.1;Coking
+19.2;Petroleum refining
+20.1;Manufacture of basic chemicals, nitrogen products and fertilizers, basic plastics and synthetic rubber
+20.2;Manufacture of pesticides and other agrochemicals
+20.3;Manufacture of paints, varnishes, inks and mastics
+20.4;Manufacture of soaps, cleaning products and perfumes
+20.5;Manufacture of other chemical products
+20.6;Manufacture of man-made fibres
+21.1;Manufacture of basic pharmaceutical products
+21.2;Manufacture of pharmaceutical preparations
+22.1;Manufacture of rubber products
+22.2;Manufacture of plastic products
+23.1;Manufacture of glass and glassware
+23.2;Manufacture of refractory products
+23.3;Manufacture of clay building materials
+23.4;Manufacture of other ceramic and porcelain products
+23.5;Manufacture of cement, lime and plaster
+23.6;Manufacture of concrete, cement and plaster products
+23.7;Stone cutting, shaping and finishing
+23.9;Manufacture of abrasive products and non-metallic mineral products n.e.c.
+24.1;Iron and steel industry
+24.2;Manufacture of steel tubes, pipes, hollow sections and related accessories
+24.3;Manufacture of other primary steel products
+24.4;Production of precious and other non-ferrous metals
+24.5;Foundry
+25.1;Manufacture of metal components for construction
+25.2;Manufacture of metal tanks, cisterns and containers
+25.3;Manufacture of steam generators, except central heating boilers
+25.4;Manufacture of arms and ammunition
+25.5;"Forging, pressing, stamping; powder metallurgy"
+25.6;"Metal treatment and coating; machining"
+25.7;Manufacture of cutlery, tools and hardware
+25.9;Manufacture of other metal products
+26.1;Manufacture of electronic components and boards
+26.2;Manufacture of computers and peripheral equipment
+26.3;Manufacture of communications equipment
+26.4;Manufacture of consumer electronics
+26.5;"Manufacture of measuring, testing and navigating instruments and apparatus; watches and clocks"
+26.6;Manufacture of medical irradiation equipment, electromedical and electrotherapeutic equipment
+26.7;Manufacture of optical and photographic equipment
+26.8;Manufacture of magnetic and optical media
+27.1;Manufacture of electric motors, generators, transformers and electrical distribution and control equipment
+27.2;Manufacture of batteries and accumulators
+27.3;Manufacture of wires and cables and electrical installation equipment
+27.4;Manufacture of electric lighting equipment
+27.5;Manufacture of domestic appliances
+27.9;Manufacture of other electrical equipment
+28.1;Manufacture of general-purpose machinery
+28.2;Manufacture of other general-purpose machinery
+28.3;Manufacture of agricultural and forestry machinery
+28.4;Manufacture of metal forming machinery and machine tools
+28.9;Manufacture of other special-purpose machinery
+29.1;Manufacture of motor vehicles
+29.2;Manufacture of bodies and trailers
+29.3;Manufacture of automotive equipment
+30.1;Shipbuilding
+30.2;Construction of locomotives and other rolling stock
+30.3;Aerospace construction
+30.4;Manufacture of military combat vehicles
+30.9;Manufacture of transport equipment n.e.c.
+31.0;Manufacture of furniture
+32.1;Manufacture of jewelry and similar articles
+32.2;Manufacture of musical instruments
+32.3;Manufacture of sporting goods
+32.4;Manufacture of toys and games
+32.5;Manufacture of medical and dental instruments and supplies
+32.9;Manufacturing activities n.e.c.
+33.1;Repair of fabricated metal products, machinery and equipment
+33.2;Installation of industrial machinery and equipment
+35.1;Electricity generation, transmission and distribution
+35.2;Production and distribution of gaseous fuels
+35.3;Steam and air conditioning production and distribution
+36.0;Water collection, treatment and distribution
+37.0;Wastewater collection and treatment
+38.1;Waste collection
+38.2;Waste treatment and disposal
+38.3;Recycling
+39.0;Pollution control and other waste management services
+41.1;Real estate development
+41.2;Construction of residential and non-residential buildings
+42.1;Road and rail construction
+42.2;Network and line construction
+42.9;Construction of other civil engineering works
+43.1;Demolition and site preparation
+43.2;Electrical, plumbing and other installation work
+43.3;Finishing work
+43.9;Other specialized construction work
+45.1;Motor vehicle trade
+45.2;Motor vehicle maintenance and repair
+45.3;Sale of automotive equipment
+45.4;Motorcycle trade and repair
+46.1;Wholesale intermediaries
+46.2;Wholesale of agricultural raw materials and live animals
+46.3;Wholesale of food, beverages and tobacco
+46.4;Wholesale of household goods
+46.5;Wholesale of information and communication equipment
+46.6;Wholesale of other industrial equipment
+46.7;Other specialized wholesale
+46.9;Non-specialized wholesale
+47.1;Retail sale in non-specialized stores
+47.2;Food retailing in specialized stores
+47.3;Retail sale of fuels in specialized stores
+47.4;Retail sale of information and communication equipment in specialized stores
+47.5;Retail sale of other household equipment in specialized stores
+47.6;Retail sale of cultural and leisure goods in specialized stores
+47.7;Other specialized store retailing
+47.8;Stall and market retailing
+47.9;Non-store, stall and market retailing
+49.1;Intercity passenger rail transport
+49.2;Freight rail transport
+49.3;Other passenger land transport
+49.4;Road freight transport and removal services
+49.5;Pipeline transport
+50.1;Maritime and coastal passenger transport
+50.2;Sea and coastal freight transport
+50.3;River passenger transport
+50.4;River freight transport
+51.1;Passenger air transport
+51.2;Air freight and space transportation
+52.1;Warehousing and storage
+52.2;Auxiliary transport services
+53.1;Postal activities as part of a universal service obligation
+53.2;Other postal and courier activities
+55.1;Hotels and similar accommodation
+55.2;Tourist accommodation and other short-term accommodation
+55.3;Camping grounds and parks for caravans or recreational vehicles
+55.9;Other accommodation
+56.1;Restaurants and mobile food services
+56.2;Catering and other food services
+56.3;Drinks outlets
+58.1;Book and periodical publishing and other publishing activities
+58.2;Software publishing
+59.1;Motion picture, video and television activities
+59.2;Sound recording and music publishing
+60.1;Radio program publishing and broadcasting
+60.2;Television programming and broadcasting
+61.1;Wired telecommunications
+61.2;Wireless telecommunications
+61.3;Satellite telecommunications
+61.9;Other telecommunications activities
+62.0;Programming, consulting and other IT activities
+63.1;"Data processing, hosting and related activities; Internet portals"
+63.9;Other information services
+64.1;Monetary intermediation
+64.2;Holding company activities
+64.3;Investment funds and similar financial entities
+64.9;Other financial services activities, excluding insurance and pension funds
+65.1;Insurance
+65.2;Reinsurance
+65.3;Pension funds
+66.1;Activities auxiliary to financial services, except insurance and pension funding
+66.2;Activities auxiliary to insurance and pension funding
+66.3;Fund management
+68.1;Activities of real estate agents
+68.2;Rental and operation of owned or leased real estate
+68.3;Real estate activities on behalf of third parties
+69.1;Legal activities
+69.2;Accounting activities
+70.1;Head office activities
+70.2;Management consulting
+71.1;Architectural and engineering activities
+71.2;Technical testing and analysis
+72.1;Research and development in physical and natural sciences
+72.2;Research and development in human and social sciences
+73.1;Advertising
+73.2;Market research and surveys
+74.1;Specialized design activities
+74.2;Photographic activities
+74.3;Translation and interpreting
+74.9;Other professional, scientific and technical activities n.e.c.
+75.0;Veterinary activities
+77.1;Renting and leasing of motor vehicles
+77.2;Renting and leasing of personal and household goods
+77.3;Renting and leasing of other machinery, equipment and goods
+77.4;Rental and leasing of intellectual property and similar products, except copyrighted works
+78.1;Activities of employment agencies
+78.2;Activities of temporary employment agencies
+78.3;Other provision of human resources
+79.1;Activities of travel agencies and tour operators
+79.9;Other reservation services and related activities
+80.1;Private security activities
+80.2;Security systems activities
+80.3;Investigation activities
+81.1;Combined building support activities
+81.2;Cleaning services
+81.3;Landscaping services
+82.1;Administrative activities
+82.2;Call center activities
+82.3;Trade fair and convention organization
+82.9;Business support activities n.e.c.
+84.1;General, economic and social administration
+84.2;Public services
+84.3;Compulsory social security
+85.1;Pre-primary education
+85.2;Primary education
+85.3;Secondary education
+85.4;Higher and post-secondary non-tertiary education
+85.5;Other education activities
+85.6;Educational support activities
+86.1;Hospital activities
+86.2;Activity of doctors and dentists
+86.9;Other human health activities
+87.1;Residential care
+87.2;Social housing for mentally handicapped, mentally ill and drug addicts
+87.3;Residential care for the elderly and physically handicapped
+87.9;Other social accommodation activities
+88.1;Social work without accommodation for the elderly and disabled
+88.9;Other social work without accommodation
+90.0;Creative, artistic and entertainment activities
+91.0;Libraries, archives, museums and other cultural activities
+92.0;Gambling and betting activities
+93.1;Sports-related activities
+93.2;Recreational and leisure activities
+94.1;Activities of business, employers' and professional organizations
+94.2;Activities of trade unions
+94.9;Activities of other membership organizations
+95.1;Repair of computers and communications equipment
+95.2;Repair of personal and household goods
+96.0;Other personal services
+97.0;Activities of households as employers of domestic personnel
+98.1;Undifferentiated goods-producing activities of private households for own use
+98.2;Undifferentiated goods-producing activities of private households for own use
+99.0;Activities of extra-territorial organizations and bodies
+01.11;Growing of cereals (except rice), pulses and oil seeds
+01.12;Rice growing
+01.13;Growing of vegetables, melons, roots and tubers
+01.14;Growing of sugar cane
+01.15;Tobacco growing
+01.16;Fiber crops
+01.19;Other non-permanent crops
+01.21;Grape growing
+01.22;Growing tropical and subtropical fruits
+01.23;Citrus growing
+01.24;Pome and stone fruit growing
+01.25;Growing of other tree and bush fruits and nuts
+01.26;Growing of oleaginous fruits
+01.27;Growing of beverage plants
+01.28;Growing of spices, aromatic, medicinal and pharmaceutical plants
+01.29;Other permanent crops
+01.30;Plant breeding
+01.41;Dairy cow farming
+01.42;Raising of other cattle and buffaloes
+01.43;Horse and other equine breeding
+01.44;Camel and other camelid breeding
+01.45;Sheep and goat farming
+01.46;Pig farming
+01.47;Poultry farming
+01.49;Other animal husbandry
+01.50;Associated crop and livestock farming
+01.61;Support activities for crop production
+01.62;Animal production support activities
+01.63;Primary crop processing
+01.64;Seed processing
+01.70;Hunting, trapping and related services
+02.10;Forestry and other forestry activities
+02.20;Forest harvesting
+02.30;Harvesting of wild-growing non-timber forest products
+02.40;Forestry support services
+03.11;Sea fishing
+03.12;Freshwater fishing
+03.21;Marine aquaculture
+03.22;Freshwater aquaculture
+05.10;Hard coal mining
+05.20;Lignite mining
+06.10;Crude oil extraction
+06.20;Natural gas extraction
+07.10;Iron ore mining
+07.21;Uranium and thorium ore mining
+07.29;Mining of other non-ferrous metal ores
+08.11;Quarrying of ornamental and building stone, industrial limestone, gypsum, chalk and slate
+08.12;Mining of gravel and sand pits, clays and kaolin
+08.91;Extraction of chemical minerals and mineral fertilizers
+08.92;Peat extraction
+08.93;Salt production
+08.99;Other mining and quarrying n.e.c.
+09.10;Support activities for petroleum and natural gas extraction
+09.90;Support activities for other mining and quarrying
+10.11;Meat processing and preserving
+10.12;Processing and preserving of poultry meat
+10.13;Preparation of meat products
+10.20;Processing and preserving of fish, crustaceans and mollusks
+10.31;Potato processing and preservation
+10.32;Preparation of fruit and vegetable juices
+10.39;Other fruit and vegetable processing and preservation
+10.41;Manufacture of oils and fats
+10.42;Manufacture of margarine and similar edible fats
+10.51;Operation of dairies and manufacture of cheese
+10.52;Ice cream and sherbet manufacture
+10.61;Grain processing
+10.62;Manufacture of starch products
+10.71;Bread and fresh pastry manufacture
+10.72;Manufacture of cookies, rusks and preserved pastries
+10.73;Pasta manufacture
+10.81;Sugar manufacture
+10.82;Manufacture of cocoa, chocolate and confectionery products
+10.83;Tea and coffee processing
+10.84;Manufacture of condiments and seasonings
+10.85;Manufacture of prepared meals
+10.86;Manufacture of homogenized and dietetic foods
+10.89;Manufacture of other food products n.e.c.
+10.91;Manufacture of farm animal feeds
+10.92;Manufacture of pet food
+11.01;Production of distilled alcoholic beverages
+11.02;Manufacture of wine (from grapes)
+11.03;Manufacture of cider and fruit wines
+11.04;Production of other non-distilled fermented beverages
+11.05;Beer production
+11.06;Malt production
+11.07;Mineral and other bottled waters and soft drinks industry
+12.00;Manufacture of tobacco products
+13.10;Textile fiber preparation and spinning
+13.20;Weaving
+13.30;Textile finishing
+13.91;Manufacture of knitted and crocheted fabrics
+13.92;Manufacture of textile articles, except apparel
+13.93;Manufacture of carpets and rugs
+13.94;Manufacture of twine, cordage and netting
+13.95;Manufacture of non-wovens, except apparel
+13.96;Manufacture of other technical and industrial textiles
+13.99;Manufacture of other textiles n.e.c.
+14.11;Manufacture of leather clothing
+14.12;Manufacture of workwear
+14.13;Manufacture of outerwear
+14.14;Manufacture of underwear
+14.19;Manufacture of other wearing apparel and accessories
+14.20;Manufacture of fur articles
+14.31;Manufacture of knitted and crocheted footwear
+14.39;Manufacture of other knitted and crocheted goods
+15.11;"Finishing and tanning of leather; preparation and dyeing of furs"
+15.12;Manufacture of travel goods, leather goods and saddlery
+15.20;Manufacture of footwear
+16.10;Sawing and planing of wood
+16.21;Veneer and wood panel manufacturing
+16.22;Manufacture of assembled parquet flooring
+16.23;Manufacture of carpentry and other joinery
+16.24;Manufacture of wooden packaging
+16.29;"Manufacture of various wooden articles; manufacture of cork, basketwork and straw goods"
+17.11;Manufacture of paper pulp
+17.12;Manufacture of paper and paperboard
+17.21;Manufacture of corrugated paper and board and paper or board packaging
+17.22;Manufacture of sanitary and household paper products
+17.23;Manufacture of stationery
+17.24;Manufacture of wallpaper
+17.29;Manufacture of other articles of paper and paperboard
+18.11;Newspaper printing
+18.12;Other commercial printing
+18.13;Pre-press activities
+18.14;Bookbinding and related activities
+18.20;Reproduction of recordings
+19.10;Coking
+19.20;Oil refining
+20.11;Manufacture of industrial gases
+20.12;Manufacture of dyes and pigments
+20.13;Manufacture of other basic inorganic chemicals
+20.14;Manufacture of other basic organic chemicals
+20.15;Manufacture of nitrogen products and fertilizers
+20.16;Manufacture of basic plastics
+20.17;Manufacture of synthetic rubber
+20.20;Manufacture of pesticides and other agrochemicals
+20.30;Manufacture of paints, varnishes, inks and mastics
+20.41;Manufacture of soaps, detergents and cleaning products
+20.42;Manufacture of perfumes and toiletries
+20.51;Manufacture of explosives
+20.52;Manufacture of glues
+20.53;Manufacture of essential oils
+20.59;Manufacture of other chemical products n.e.c.
+20.60;Manufacture of man-made fibres
+21.10;Manufacture of basic pharmaceutical products
+21.20;Manufacture of pharmaceutical preparations
+22.11;Manufacture and retreading of tires
+22.19;Manufacture of other rubber products
+22.21;Manufacture of plastic plates, sheets, tubes and profiles
+22.22;Manufacture of plastic packaging
+22.23;Manufacture of plastic building components
+22.29;Manufacture of other plastic articles
+23.11;Manufacture of flat glass
+23.12;Shaping and processing of flat glass
+23.13;Manufacture of hollow glass
+23.14;Manufacture of glass fibers
+23.19;Manufacture and processing of other glass products, including technical glass
+23.20;Manufacture of refractory products
+23.31;Manufacture of ceramic tiles
+23.32;Manufacture of clay bricks, tiles and construction products
+23.41;Manufacture of ceramic articles for domestic or ornamental use
+23.42;Manufacture of ceramic sanitary ware
+23.43;Manufacture of ceramic insulators and insulating fittings
+23.44;Manufacture of other technical ceramic products
+23.49;Manufacture of other ceramic products
+23.51;Manufacture of cement
+23.52;Manufacture of lime and plaster
+23.61;Manufacture of concrete building components
+23.62;Manufacture of plaster elements for construction purposes
+23.63;Manufacture of ready-mix concrete
+23.64;Manufacture of dry mortars and concretes
+23.65;Manufacture of fiber-cement products
+23.69;Manufacture of other concrete, cement and plaster products
+23.70;Stone cutting, shaping and finishing
+23.91;Manufacture of abrasive products
+23.99;Manufacture of other non-metallic mineral products n.e.c.
+24.10;Iron and steel industry
+24.20;Manufacture of steel tubes, pipes, hollow sections and related accessories
+24.31;Cold drawing of bars
+24.32;Cold rolling of strips
+24.33;Cold forming by forming or bending
+24.34;Cold wire drawing
+24.41;Precious metals production
+24.42;Aluminum metallurgy
+24.43;Lead, zinc and tin metallurgy
+24.44;Copper metallurgy
+24.45;Metallurgy of other non-ferrous metals
+24.46;Nuclear materials preparation and processing
+24.51;Cast iron foundry
+24.52;Steel casting
+24.53;Light metal foundry
+24.54;Casting of other non-ferrous metals
+25.11;Manufacture of metal structures and parts of structures
+25.12;Manufacture of metal doors and windows
+25.21;Manufacture of central heating radiators and boilers
+25.29;Manufacture of other metal tanks, cisterns and containers
+25.30;Manufacture of steam generators, except central heating boilers
+25.40;Manufacture of arms and ammunition
+25.50;"Forging, pressing, stamping; powder metallurgy"
+25.61;Metal treatment and coating
+25.62;Machining
+25.71;Cutlery manufacture
+25.72;Manufacture of locks and fittings
+25.73;Toolmaking
+25.91;Manufacture of drums and similar metal packaging
+25.92;Manufacture of light metal packaging
+25.93;Manufacture of wire products, chains and springs
+25.94;Manufacture of screws and bolts
+25.99;Manufacture of other metal products n.e.c.
+26.11;Manufacture of electronic components
+26.12;Manufacture of assembled electronic boards
+26.20;Manufacture of computers and peripheral equipment
+26.30;Manufacture of communication equipment
+26.40;Manufacture of consumer electronics
+26.51;Manufacture of measuring, testing and navigation instruments and apparatus
+26.52;Watchmaking
+26.60;Manufacture of medical irradiation, electromedical and electrotherapeutic equipment
+26.70;Manufacture of optical and photographic equipment
+26.80;Manufacture of magnetic and optical media
+27.11;Manufacture of electric motors, generators and transformers
+27.12;Manufacture of electrical distribution and control equipment
+27.20;Manufacture of batteries and accumulators
+27.31;Manufacture of optical fiber cables
+27.32;Manufacture of other electronic or electrical wires and cables
+27.33;Manufacture of electrical installation equipment
+27.40;Manufacture of electric lighting equipment
+27.51;Manufacture of domestic appliances
+27.52;Manufacture of non-electric household appliances
+27.90;Manufacture of other electrical equipment
+28.11;Manufacture of engines and turbines, except aircraft and vehicle engines
+28.12;Manufacture of hydraulic and pneumatic equipment
+28.13;Manufacture of other pumps and compressors
+28.14;Manufacture of other valves and fittings
+28.15;Manufacture of gears and mechanical transmission components
+28.21;Manufacture of furnaces and burners
+28.22;Manufacture of lifting and handling equipment
+28.23;Manufacture of office machinery and equipment (except computers and peripheral equipment)
+28.24;Manufacture of portable power tools
+28.25;Manufacture of industrial air-conditioning and refrigeration equipment
+28.29;Manufacture of general-purpose machinery
+28.30;Manufacture of agricultural and forestry machinery
+28.41;Manufacture of metal forming machines
+28.49;Manufacture of other machine tools
+28.91;Manufacture of metalworking machinery
+28.92;Manufacture of mining and construction machinery
+28.93;Manufacture of machinery for the food industry
+28.94;Manufacture of machinery for the textile industry
+28.95;Manufacture of machinery for the paper and cardboard industries
+28.96;Manufacture of machinery for working rubber or plastics
+28.99;Manufacture of other special-purpose machinery n.e.c.
+29.10;Manufacture of motor vehicles
+29.20;Manufacture of bodies and trailers
+29.31;Manufacture of automotive electrical and electronic equipment
+29.32;Manufacture of other automotive equipment
+30.11;Shipbuilding and floating structures
+30.12;Construction of pleasure boats
+30.20;Construction of locomotives and other railway rolling stock
+30.30;Manufacture of aircraft and spacecraft
+30.40;Military combat vehicles
+30.91;Manufacture of motorcycles
+30.92;Manufacture of bicycles and invalid carriages
+30.99;Manufacture of other transport equipment n.e.c.
+31.01;Manufacture of office and store furniture
+31.02;Manufacture of kitchen furniture
+31.03;Manufacture of mattresses
+31.09;Manufacture of other furniture
+32.11;Coin minting
+32.12;Manufacture of jewelry and related articles
+32.13;Manufacture of costume jewelry and similar articles
+32.20;Manufacture of musical instruments
+32.30;Manufacture of sporting goods
+32.40;Manufacture of toys and games
+32.50;Manufacture of medical and dental instruments and supplies
+32.91;Manufacture of brushware
+32.99;Other manufacturing n.e.c.
+33.11;Repair of metal structures
+33.12;Repair of mechanical machinery and equipment
+33.13;Repair of electronic and optical equipment
+33.14;Repair of electrical equipment
+33.15;Ship repair and maintenance
+33.16;Repair and maintenance of aircraft and spacecraft
+33.17;Repair and maintenance of other transport equipment
+33.19;Repair of other equipment
+33.20;Installation of industrial machinery and equipment
+35.11;Power generation
+35.12;Electricity transmission
+35.13;Electricity distribution
+35.14;Electricity trading
+35.21;Production of gaseous fuels
+35.22;Distribution of gaseous fuels through pipelines
+35.23;Trade in piped gaseous fuels
+35.30;Steam and air conditioning production and distribution
+36.00;Water collection, treatment and distribution
+37.00;Wastewater collection and treatment
+38.11;Collection of non-hazardous waste
+38.12;Hazardous waste collection
+38.21;Treatment and disposal of non-hazardous waste
+38.22;Hazardous waste treatment and disposal
+38.31;Wreck dismantling
+38.32;Sorted waste recovery
+39.00;Depollution and other waste management services
+41.10;Real estate development
+41.20;Construction of residential and non-residential buildings
+42.11;Road and highway construction
+42.12;Construction of surface and underground railroads
+42.13;Bridge and tunnel construction
+42.21;Construction of fluid networks
+42.22;Construction of electrical and telecommunications networks
+42.91;Construction of maritime and fluvial structures
+42.99;Construction of other civil engineering works n.e.c.
+43.11;Demolition work
+43.12;Site preparation work
+43.13;Drilling and boring
+43.21;Electrical installations
+43.22;Plumbing, heating and air-conditioning installations
+43.29;Other installation work
+43.31;Plastering work
+43.32;Carpentry work
+43.33;Floor and wall covering work
+43.34;Painting and glazing
+43.39;Other finishing work
+43.91;Roofing work
+43.99;Other specialized construction work n.e.c.
+45.11;Sale of cars and light motor vehicles
+45.19;Trade in other motor vehicles
+45.20;Maintenance and repair of motor vehicles
+45.31;Wholesale of automotive equipment
+45.32;Retail sale of automotive equipment
+45.40;Trade and repair of motorcycles
+46.11;Agents involved in the sale of agricultural raw materials, live animals, textile raw materials and semi-finished products
+46.12;Agents involved in the sale of fuels, metals, minerals and chemicals
+46.13;Agents involved in the sale of wood and building materials
+46.14;Agents involved in the sale of machinery, industrial equipment, ships and aircraft
+46.15;Agents involved in the sale of furniture, household goods and hardware
+46.16;Agents involved in the sale of textiles, clothing, furs, footwear and leather goods
+46.17;Agents specializing in the sale of food, beverages and tobacco
+46.18;Agents specializing in the sale of other specific products
+46.19;Intermediaries in the sale of miscellaneous products
+46.21;Wholesale of cereals, unmanufactured tobacco, seeds and livestock feed
+46.22;Wholesale of flowers and plants
+46.23;Wholesale of live animals
+46.24;Wholesale of hides and skins
+46.31;Wholesale of fruit and vegetables
+46.32;Wholesale of meat and meat products
+46.33;Wholesale of dairy products, eggs, edible oils and fats
+46.34;Wholesale of beverages
+46.35;Wholesale of tobacco products
+46.36;Wholesale of sugar, chocolate and confectionery
+46.37;Wholesale of coffee, tea, cocoa and spices
+46.38;Wholesale of other food products, including fish, crustaceans and molluscs
+46.39;Non-specialized wholesale of food, beverages and tobacco
+46.41;Wholesale of textiles
+46.42;Wholesale of clothing and footwear
+46.43;Wholesale of household appliances
+46.44;Wholesale of crockery, glassware and cleaning products
+46.45;Wholesale of perfumery and beauty products
+46.46;Wholesale of pharmaceutical products
+46.47;Wholesale of furniture, carpets and lighting equipment
+46.48;Wholesale of watches, clocks and jewelry
+46.49;Wholesale of other household goods
+46.51;Wholesale of computers, peripheral computer equipment and software
+46.52;Wholesale of electronic and telecommunications components and equipment
+46.61;Wholesale of agricultural equipment
+46.62;Wholesale of machine tools
+46.63;Wholesale of mining, construction and civil engineering machinery
+46.64;Wholesale of machinery for the textile and clothing industries
+46.65;Wholesale of office furniture
+46.66;Wholesale of other office machinery and equipment
+46.69;Wholesale of other machinery and equipment
+46.71;Wholesale of fuels and related products
+46.72;Wholesale of ores and metals
+46.73;Wholesale of wood, building materials and sanitary appliances
+46.74;Wholesale of hardware, plumbing and heating supplies
+46.75;Wholesale of chemical products
+46.76;Wholesale of other intermediate products
+46.77;Wholesale of waste and scrap
+46.90;Non-specialized wholesale
+47.11;Retail sale in non-specialized stores with food predominating
+47.19;Other retail in non-specialized stores
+47.21;Retail sale of fruit and vegetables in specialized stores
+47.22;Retail sale of meat and meat products in specialized stores
+47.23;Retail sale of fish, crustaceans and molluscs in specialized stores
+47.24;Retail sale of bread, pastries and confectionery in specialized stores
+47.25;Retail sale of beverages in specialized stores
+47.26;Retail sale of tobacco products in specialized stores
+47.29;Other food retailing in specialized stores
+47.30;Fuel retailing in specialized stores
+47.41;Retail sale of computers, peripherals and software in specialized stores
+47.42;Retail sale of telecommunications equipment in specialized stores
+47.43;Retail sale of audio/video equipment in specialized stores
+47.51;Retail sale of textiles in specialized stores
+47.52;Retail sale of hardware, paint and glass in specialized stores
+47.53;Retail sale of carpets, wall and floor coverings in specialized stores
+47.54;Retail sale of household appliances in specialized stores
+47.59;Retail sale of furniture, lighting equipment and other household articles in specialized stores
+47.61;Retail sale of books in specialized stores
+47.62;Retail sale of newspapers and stationery in specialized stores
+47.63;Retail sale of music and video recordings in specialized stores
+47.64;Retail sale of sporting goods in specialized stores
+47.65;Retail sale of games and toys in specialized stores
+47.71;Retail sale of clothing in specialized stores
+47.72;Retail sale of footwear and leather goods in specialized stores
+47.73;Retail sale of pharmaceutical products in specialized stores
+47.74;Retail sale of medical and orthopedic articles in specialized stores
+47.75;Retail sale of perfume and beauty products in specialized stores
+47.76;Retail sale of flowers, plants, seeds, fertilizers, pets and pet food in specialized stores
+47.77;Retail sale of watches and jewelry in specialized stores
+47.78;Other retail sale of new goods in specialized stores
+47.79;Retail sale of second-hand goods in specialized stores
+47.81;Food retailing in stalls and markets
+47.82;Retail sale of textiles, clothing and footwear in stalls and markets
+47.89;Other stall and market retail
+47.91;Distance selling
+47.99;Other non-store, stall or market retailing
+49.10;Intercity passenger rail transport
+49.20;Freight rail transport
+49.31;Urban and suburban passenger transport
+49.32;Passenger cab transport
+49.39;Other passenger land transport n.e.c.
+49.41;Road freight transport
+49.42;Removal services
+49.50;Pipeline transport
+50.10;Maritime and coastal passenger transport
+50.20;Sea and coastal freight transport
+50.30;River passenger transport
+50.40;River freight transport
+51.10;Passenger air transport
+51.21;Air freight transport
+51.22;Space transportation
+52.10;Warehousing and storage
+52.21;Services incidental to land transport
+52.22;Services incidental to water transportation
+52.23;Services incidental to air transportation
+52.24;Material handling
+52.29;Other services auxiliary to transport
+53.10;Postal activities within the framework of a universal service obligation
+53.20;Other postal and courier activities
+55.10;Hotels and similar accommodation
+55.20;Tourist accommodation and other short-stay accommodation
+55.30;Camping grounds and parks for caravans or recreational vehicles
+55.90;Other accommodation
+56.10;Restaurants and mobile catering
+56.21;Catering services
+56.29;Other catering services
+56.30;Drinks outlets
+58.11;Book publishing
+58.12;Publishing of directories and address files
+58.13;Newspaper publishing
+58.14;Publishing of magazines and periodicals
+58.19;Other publishing activities
+58.21;Electronic games publishing
+58.29;Other software publishing
+59.11;Motion picture, video and television program production
+59.12;Post-production of motion pictures, video and television programs
+59.13;Motion picture, video and television program distribution
+59.14;Motion picture projection
+59.20;Sound recording and music publishing
+60.10;Radio program publishing and broadcasting
+60.20;Television programming and broadcasting
+61.10;Wired telecommunications
+61.20;Wireless telecommunications
+61.30;Satellite telecommunications
+61.90;Other telecommunications activities
+62.01;Computer programming
+62.02;IT consulting
+62.03;IT facilities management
+62.09;Other IT activities
+63.11;Data processing, hosting and related activities
+63.12;Internet portals
+63.91;News agency activities
+63.99;Other information services n.e.c.
+64.11;Central banking activities
+64.19;Other monetary intermediation
+64.20;Activities of holding companies
+64.30;Investment funds and similar financial entities
+64.91;Leasing
+64.92;Other credit distribution
+64.99;Other financial services, except insurance and pension funding, n.e.c.
+65.11;Life insurance
+65.12;Other insurance
+65.20;Reinsurance
+65.30;Pension funds
+66.11;Administration of financial markets
+66.12;Securities and commodities brokerage
+66.19;Other activities auxiliary to financial services, excluding insurance and pension funds
+66.21;Risk and damage assessment
+66.22;Activities of insurance agents and brokers
+66.29;Other activities auxiliary to insurance and pension funding
+66.30;Fund management
+68.10;Real estate brokerage activities
+68.20;Rental and operation of owned or leased real estate
+68.31;Real estate agencies
+68.32;Real estate administration
+69.10;Legal services
+69.20;Accounting activities
+70.10;Head office activities
+70.21;Public relations and communications consultancy
+70.22;Business and other management consultancy
+71.11;Architectural activities
+71.12;Engineering activities
+71.20;Technical testing and analysis
+72.11;Biotechnology research and development
+72.19;Research and development on other physical and natural sciences
+72.20;Research and development on humanities and social sciences
+73.11;Advertising agency activities
+73.12;Media advertising management
+73.20;Market research and surveys
+74.10;Specialized design activities
+74.20;Photographic activities
+74.30;Translation and interpreting activities
+74.90;Other professional, scientific and technical activities n.e.c.
+75.00;Veterinary activities
+77.11;Rental and leasing of cars and light motor vehicles
+77.12;Truck rental and leasing
+77.21;Rental and leasing of leisure and sporting goods
+77.22;Rental and leasing of videocassettes and video discs
+77.29;Rental and leasing of other personal and household goods
+77.31;Rental and leasing of agricultural machinery and equipment
+77.32;Rental and leasing of construction machinery and equipment
+77.33;Rental and leasing of office machines and computer equipment
+77.34;Rental and leasing of water transport equipment
+77.35;Rental and leasing of air transport equipment
+77.39;Rental and leasing of other machinery, equipment and tangible goods n.e.c.
+77.40;Rental and leasing of intellectual property and similar products, except copyrighted works
+78.10;Activities of employment agencies
+78.20;Activities of temporary employment agencies
+78.30;Other provision of human resources
+79.11;Activities of travel agencies
+79.12;Activities of tour operators
+79.90;Other reservation services and related activities
+80.10;Private security activities
+80.20;Security systems activities
+80.30;Investigation activities
+81.10;Combined building support activities
+81.21;Routine building cleaning
+81.22;Other building and industrial cleaning activities
+81.29;Other cleaning activities
+81.30;Landscaping services
+82.11;Combined office administrative services
+82.19;Photocopying, document preparation and other specialized office support activities
+82.20;Call center activities
+82.30;Trade show and convention organization
+82.91;Activities of bill collection agencies and customer financial information companies
+82.92;Packaging activities
+82.99;Other business support activities n.e.c.
+84.11;General public administration
+84.12;Public administration of health, education, culture and social services, other than social security
+84.13;Public administration of economic activities
+84.21;Foreign affairs
+84.22;Defense
+84.23;Justice
+84.24;Public order and security activities
+84.25;Fire and rescue services
+84.30;Compulsory social security
+85.10;Pre-primary education
+85.20;Primary education
+85.31;General secondary education
+85.32;Technical or vocational secondary education
+85.41;Post-secondary non-tertiary education
+85.42;Higher education
+85.51;Sports and leisure education
+85.52;Cultural education
+85.53;Driving lessons
+85.59;Miscellaneous teaching
+85.60;Teaching support activities
+86.10;Hospital activities
+86.21;General practitioners
+86.22;Specialist activity
+86.23;Dental practice
+86.90;Other human health activities
+87.10;Residential care
+87.20;Social housing for mentally handicapped, mentally ill and drug addicts
+87.30;Social housing for the elderly and physically handicapped
+87.90;Other social housing activities
+88.10;Social work without accommodation for the elderly and disabled
+88.91;Social work without accommodation for young children
+88.99;Other social work activities without accommodation n.e.c.
+90.01;Performing arts
+90.02;Support activities for performing arts
+90.03;Artistic creation
+90.04;Venue management
+91.01;Library and archive management
+91.02;Museum management
+91.03;Management of historical sites and monuments and similar tourist attractions
+91.04;Management of botanical and zoological gardens and nature reserves
+92.00;Organization of games of chance and gambling
+93.11;Management of sports facilities
+93.12;Sports club activities
+93.13;Activities of fitness centers
+93.19;Other sports-related activities
+93.21;Amusement and theme park activities
+93.29;Other recreational and leisure activities
+94.11;Activities of employers' and consular organizations
+94.12;Activities of professional organizations
+94.20;Activities of trade unions
+94.91;Activities of religious organizations
+94.92;Activities of political organizations
+94.99;Activities of membership organizations n.e.c.
+95.11;Repair of computers and peripheral equipment
+95.12;Repair of communications equipment
+95.21;Repair of consumer electronics
+95.22;Repair of household appliances and home and garden equipment
+95.23;Repair of shoes and leather goods
+95.24;Repair of furniture and household equipment
+95.25;Repair of watches and jewelry
+95.29;Repair of other personal and household goods
+96.01;Laundry and dry-cleaning
+96.02;Hairdressing and beauty care
+96.03;Funeral services
+96.04;Personal care services
+96.09;Other personal services n.e.c.
+97.00;Activities of households as employers of domestic personnel
+98.10;Undifferentiated goods-producing activities of private households for own use
+98.20;Undifferentiated goods-producing activities of households for own use
+99.00;Activities of extra-territorial organizations and bodies
+01.11Z;Growing of cereals (except rice), pulses and oil seeds
+01.12Z;Rice cultivation
+01.13Z;Cultivation of vegetables, melons, roots and tubers
+01.14Z;Sugar cane cultivation
+01.15Z;Tobacco growing
+01.16Z;Fiber crops
+01.19Z;Other non-permanent crops
+01.21Z;Grape growing
+01.22Z;Tropical and subtropical fruit growing
+01.23Z;Citrus growing
+01.24Z;Pome and stone fruit growing
+01.25Z;Growing of other tree and bush fruits and nuts
+01.26Z;Growing of oleaginous fruits
+01.27Z;Growing of beverage plants
+01.28Z;Growing of spices, aromatic, medicinal and pharmaceutical plants
+01.29Z;Other permanent crops
+01.30Z;Plant breeding
+01.41Z;Dairy cow farming
+01.42Z;Raising of other cattle and buffaloes
+01.43Z;Horse and other equine breeding
+01.44Z;Camel and other camelid breeding
+01.45Z;Sheep and goat farming
+01.46Z;Pig farming
+01.47Z;Poultry farming
+01.49Z;Other animal husbandry
+01.50Z;Associated crop and livestock farming
+01.61Z;Support activities for crop production
+01.62Z;Animal production support activities
+01.63Z;Primary crop processing
+01.64Z;Seed processing
+01.70Z;Hunting, trapping and related services
+02.10Z;Silviculture and other forestry activities
+02.20Z;Forest harvesting
+02.30Z;Harvesting of wild-growing non-timber forest products
+02.40Z;Forestry support services
+03.11Z;Sea fishing
+03.12Z;Freshwater fishing
+03.21Z;Marine aquaculture
+03.22Z;Freshwater aquaculture
+05.10Z;Hard coal mining
+05.20Z;Lignite mining
+06.10Z;Crude oil extraction
+06.20Z;Natural gas extraction
+07.10Z;Iron ore mining
+07.21Z;Mining of uranium and thorium ores
+07.29Z;Mining of other non-ferrous ores
+08.11Z;Quarrying of ornamental and building stone, industrial limestone, gypsum, chalk and slate
+08.12Z;Mining of gravel and sand pits, clays and kaolin
+08.91Z;Extraction of chemical minerals and mineral fertilizers
+08.92Z;Peat extraction
+08.93Z;Salt production
+08.99Z;Other mining and quarrying n.e.c.
+09.10Z;Support activities for petroleum and natural gas extraction
+09.90Z;Support activities for other mining and quarrying
+10.11Z;Meat processing and preserving
+10.12Z;Processing and preserving of poultry meat
+10.13A;Industrial preparation of meat products
+10.13B;Charcuterie
+10.20Z;Processing and preserving of fish, crustaceans and mollusks
+10.31Z;Potato processing and preservation
+10.32Z;Preparation of fruit and vegetable juices
+10.39A;Other vegetable processing and preservation
+10.39B;Fruit processing and preservation
+10.41A;Manufacture of crude oils and fats
+10.41B;Manufacture of refined oils and fats
+10.42Z;Manufacture of margarine and similar edible fats
+10.51A;Manufacture of liquid milk and fresh products
+10.51B;Manufacture of butter
+10.51C;Manufacture of cheese
+10.51D;Manufacture of other dairy products
+10.52Z;Ice cream and sherbet manufacture
+10.61A;Milling
+10.61B;Other grain processing
+10.62Z;Manufacture of starch products
+10.71A;Industrial production of fresh bread and pastries
+10.71B;Baking of bakery products
+10.71C;Bakery and pastry-making
+10.71D;Pastry-making
+10.72Z;Manufacture of cookies, rusks and preserved pastries
+10.73Z;Pasta manufacture
+10.81Z;Sugar production
+10.82Z;Manufacture of cocoa, chocolate and confectionery products
+10.83Z;Tea and coffee processing
+10.84Z;Manufacture of condiments and seasonings
+10.85Z;Manufacture of prepared meals
+10.86Z;Manufacture of homogenized and dietetic foods
+10.89Z;Manufacture of other food products n.e.c.
+10.91Z;Farm animal feed manufacturing
+10.92Z;Manufacture of pet food
+11.01Z;Production of distilled alcoholic beverages
+11.02A;Sparkling wine production
+11.02B;Wine-making
+11.03Z;Manufacture of cider and fruit wines
+11.04Z;Production of other non-distilled fermented beverages
+11.05Z;Beer production
+11.06Z;Malt production
+11.07A;Table water industry
+11.07B;Soft drinks production
+12.00Z;Manufacture of tobacco products
+13.10Z;Textile fiber preparation and spinning
+13.20Z;Weaving
+13.30Z;Textile finishing
+13.91Z;Manufacture of knitted and crocheted fabrics
+13.92Z;Manufacture of textile articles, except apparel
+13.93Z;Manufacture of carpets and rugs
+13.94Z;Manufacture of twine, cordage and netting
+13.95Z;Manufacture of non-wovens, except apparel
+13.96Z;Manufacture of other technical and industrial textiles
+13.99Z;Manufacture of other textiles n.e.c.
+14.11Z;Manufacture of leather clothing
+14.12Z;Manufacture of workwear
+14.13Z;Manufacture of outerwear
+14.14Z;Manufacture of underwear
+14.19Z;Manufacture of other wearing apparel and accessories
+14.20Z;Manufacture of fur articles
+14.31Z;Manufacture of knitted and crocheted footwear
+14.39Z;Manufacture of other knitted and crocheted goods
+15.11Z;"Finishing and tanning of leather; preparation and dyeing of furs"
+15.12Z;Manufacture of travel goods, leather goods and saddlery
+15.20Z;Manufacture of footwear
+16.10A;Sawing and planing of wood, excluding impregnation
+16.10B;Wood impregnation
+16.21Z;Veneer and wood panel manufacturing
+16.22Z;Manufacture of assembled parquet flooring
+16.23Z;Manufacture of carpentry and other joinery
+16.24Z;Manufacture of wooden packaging
+16.29Z;"Manufacture of various wooden objects; manufacture of cork, basketry and straw goods"
+17.11Z;Manufacture of paper pulp
+17.12Z;Manufacture of paper and paperboard
+17.21A;Manufacture of corrugated board
+17.21B;Manufacture of cardboard boxes
+17.21C;Manufacture of paper packaging
+17.22Z;Manufacture of sanitary and household paper products
+17.23Z;Manufacture of stationery
+17.24Z;Manufacture of wallpaper
+17.29Z;Manufacture of other paper and paperboard products
+18.11Z;Newspaper printing
+18.12Z;Other commercial printing
+18.13Z;Pre-press activities
+18.14Z;Bookbinding and related activities
+18.20Z;Reproduction of recordings
+19.10Z;Coking
+19.20Z;Oil refining
+20.11Z;Manufacture of industrial gases
+20.12Z;Dye and pigment manufacture
+20.13A;Enrichment and reprocessing of nuclear materials
+20.13B;Manufacture of other basic inorganic chemicals n.e.c.
+20.14Z;Manufacture of other basic organic chemicals
+20.15Z;Manufacture of nitrogen products and fertilizers
+20.16Z;Manufacture of basic plastics
+20.17Z;Manufacture of synthetic rubber
+20.20Z;Manufacture of pesticides and other agrochemicals
+20.30Z;Manufacture of paints, varnishes, inks and mastics
+20.41Z;Manufacture of soaps, detergents and cleaning products
+20.42Z;Manufacture of perfumes and toiletries
+20.51Z;Manufacture of explosives
+20.52Z;Manufacture of glues
+20.53Z;Manufacture of essential oils
+20.59Z;Manufacture of other chemical products n.e.c.
+20.60Z;Manufacture of man-made fibres
+21.10Z;Manufacture of basic pharmaceutical products
+21.20Z;Manufacture of pharmaceutical preparations
+22.11Z;Manufacture and retreading of tires
+22.19Z;Manufacture of other rubber products
+22.21Z;Manufacture of plastic plates, sheets, tubes and profiles
+22.22Z;Manufacture of plastic packaging
+22.23Z;Manufacture of plastic components for the construction industry
+22.29A;Manufacture of technical plastic parts
+22.29B;Manufacture of plastic consumer products
+23.11Z;Manufacture of flat glass
+23.12Z;Flat glass forming and processing
+23.13Z;Hollow glass manufacturing
+23.14Z;Manufacture of glass fibers
+23.19Z;Manufacture and processing of other glass articles, including technical glass
+23.20Z;Manufacture of refractory products
+23.31Z;Manufacture of ceramic tiles
+23.32Z;Manufacture of clay bricks, tiles and construction products
+23.41Z;Manufacture of ceramic articles for domestic or ornamental use
+23.42Z;Manufacture of ceramic sanitary ware
+23.43Z;Manufacture of ceramic insulators and insulating fittings
+23.44Z;Manufacture of other technical ceramic products
+23.49Z;Manufacture of other ceramic products
+23.51Z;Manufacture of cement
+23.52Z;Manufacture of lime and plaster
+23.61Z;Manufacture of concrete building components
+23.62Z;Manufacture of plaster for construction purposes
+23.63Z;Manufacture of ready-mix concrete
+23.64Z;Manufacture of dry mortars and concretes
+23.65Z;Manufacture of fiber-cement products
+23.69Z;Manufacture of other concrete, cement and plaster products
+23.70Z;Stone cutting, shaping and finishing
+23.91Z;Manufacture of abrasive products
+23.99Z;Manufacture of other non-metallic mineral products n.e.c.
+24.10Z;Iron and steel industry
+24.20Z;Manufacture of steel tubes, pipes, hollow sections and related accessories
+24.31Z;Cold drawing of bars
+24.32Z;Cold rolling of strips
+24.33Z;Cold forming by forming or bending
+24.34Z;Cold wire drawing
+24.41Z;Precious metals production
+24.42Z;Aluminum metallurgy
+24.43Z;Lead, zinc and tin metallurgy
+24.44Z;Copper metallurgy
+24.45Z;Metallurgy of other non-ferrous metals
+24.46Z;Nuclear materials elaboration and transformation
+24.51Z;Cast iron foundry
+24.52Z;Steel foundry
+24.53Z;Light metal casting
+24.54Z;Casting of other non-ferrous metals
+25.11Z;Manufacture of metal structures and parts of structures
+25.12Z;Manufacture of metal doors and windows
+25.21Z;Manufacture of central heating radiators and boilers
+25.29Z;Manufacture of other metal tanks, cisterns and containers
+25.30Z;Manufacture of steam generators, except central heating boilers
+25.40Z;Manufacture of arms and ammunition
+25.50A;"Forging, stamping, die-forging; powder metallurgy"
+25.50B;Cutting and stamping
+25.61Z;Metal treatment and coating
+25.62A;Bar turning
+25.62B;Industrial mechanics
+25.71Z;Cutlery manufacture
+25.72Z;Manufacture of locks and fittings
+25.73A;Manufacture of molds and models
+25.73B;Manufacture of other tools
+25.91Z;Manufacture of drums and similar metal packaging
+25.92Z;Manufacture of light metal packaging
+25.93Z;Manufacture of wire products, chain and springs
+25.94Z;Manufacture of screws and bolts
+25.99A;Manufacture of household metal goods
+25.99B;Manufacture of other metal articles
+26.11Z;Manufacture of electronic components
+26.12Z;Manufacture of assembled electronic boards
+26.20Z;Manufacture of computers and peripheral equipment
+26.30Z;Manufacture of communication equipment
+26.40Z;Manufacture of consumer electronics
+26.51A;Manufacture of navigation aids
+26.51B;Manufacture of scientific and technical instrumentation
+26.52Z;Watchmaking
+26.60Z;Manufacture of medical irradiation equipment, electromedical and electrotherapeutic equipment
+26.70Z;Manufacture of optical and photographic equipment
+26.80Z;Manufacture of magnetic and optical media
+27.11Z;Manufacture of electric motors, generators and transformers
+27.12Z;Manufacture of electrical distribution and control equipment
+27.20Z;Manufacture of batteries and accumulators
+27.31Z;Manufacture of optical fiber cables
+27.32Z;Manufacture of other electronic and electrical wires and cables
+27.33Z;Manufacture of electrical installation equipment
+27.40Z;Manufacture of electric lighting equipment
+27.51Z;Manufacture of domestic appliances
+27.52Z;Manufacture of non-electric household appliances
+27.90Z;Manufacture of other electrical equipment
+28.11Z;Manufacture of engines and turbines, except aircraft and vehicle engines
+28.12Z;Manufacture of hydraulic and pneumatic equipment
+28.13Z;Manufacture of other pumps and compressors
+28.14Z;Manufacture of other valves and fittings
+28.15Z;Manufacture of gears and mechanical transmission components
+28.21Z;Manufacture of furnaces and burners
+28.22Z;Manufacture of lifting and handling equipment
+28.23Z;Manufacture of office machinery and equipment (except computers and peripheral equipment)
+28.24Z;Manufacture of portable power tools
+28.25Z;Manufacture of industrial air-conditioning and refrigeration equipment
+28.29A;Manufacture of packaging, wrapping and weighing equipment
+28.29B;Manufacture of other general-purpose machinery
+28.30Z;Manufacture of agricultural and forestry machinery
+28.41Z;Manufacture of metalworking machine tools
+28.49Z;Manufacture of other machine tools
+28.91Z;Manufacture of machinery for metallurgy
+28.92Z;Manufacture of mining and construction machinery
+28.93Z;Manufacture of food processing machinery
+28.94Z;Manufacture of machinery for the textile industry
+28.95Z;Manufacture of machinery for the paper and cardboard industries
+28.96Z;Manufacture of rubber and plastics processing machinery
+28.99A;Manufacture of printing machinery
+28.99B;Manufacture of other specialized machinery
+29.10Z;Manufacture of motor vehicles
+29.20Z;Manufacture of bodies and trailers
+29.31Z;Manufacture of automotive electrical and electronic equipment
+29.32Z;Manufacture of other automotive equipment
+30.11Z;Shipbuilding and floating structures
+30.12Z;Construction of pleasure boats
+30.20Z;Construction of locomotives and other railway rolling stock
+30.30Z;Manufacture of aircraft and spacecraft
+30.40Z;Military combat vehicles
+30.91Z;Manufacture of motorcycles
+30.92Z;Manufacture of bicycles and invalid carriages
+30.99Z;Manufacture of other transport equipment n.e.c.
+31.01Z;Manufacture of office and store furniture
+31.02Z;Kitchen furniture manufacture
+31.03Z;Mattress manufacture
+31.09A;Manufacture of interior furnishing seats
+31.09B;Manufacture of other furniture and related furnishing industries
+32.11Z;Coin minting
+32.12Z;Manufacture of jewelry and related articles
+32.13Z;Manufacture of costume jewelry and similar articles
+32.20Z;Manufacture of musical instruments
+32.30Z;Manufacture of sporting goods
+32.40Z;Manufacture of toys and games
+32.50A;Manufacture of medical, surgical and dental equipment
+32.50B;Manufacture of spectacles
+32.91Z;Manufacture of brushware
+32.99Z;Other manufacturing n.e.c.
+33.11Z;Repair of fabricated metal products
+33.12Z;Repair of machinery and mechanical equipment
+33.13Z;Repair of electronic and optical equipment
+33.14Z;Repair of electrical equipment
+33.15Z;Ship repair and maintenance
+33.16Z;Repair and maintenance of aircraft and spacecraft
+33.17Z;Repair and maintenance of other transport equipment
+33.19Z;Repair of other equipment
+33.20A;Installation of metal structures, boilers and piping
+33.20B;Installation of machinery and mechanical equipment
+33.20C;Overall design and on-site assembly of industrial process control equipment
+33.20D;Installation of electrical, electronic, optical and other equipment
+35.11Z;Power generation
+35.12Z;Electricity transmission
+35.13Z;Electricity distribution
+35.14Z;Electricity trading
+35.21Z;Production of gaseous fuels
+35.22Z;Distribution of gaseous fuels through pipelines
+35.23Z;Trade in piped gaseous fuels
+35.30Z;Steam and air conditioning production and distribution
+36.00Z;Water collection, treatment and distribution
+37.00Z;Wastewater collection and treatment
+38.11Z;Collection of non-hazardous waste
+38.12Z;Hazardous waste collection
+38.21Z;Treatment and disposal of non-hazardous waste
+38.22Z;Hazardous waste treatment and disposal
+38.31Z;Wrecker dismantling
+38.32Z;Sorted waste recovery
+39.00Z;Pollution control and other waste management services
+41.10A;Housing development
+41.10B;Office property development
+41.10C;Real estate development of other buildings
+41.10D;Legal support for programs
+41.20A;Construction of single-family homes
+41.20B;Construction of other buildings
+42.11Z;Road and freeway construction
+42.12Z;Construction of surface and underground railroads
+42.13A;Construction of engineering structures
+42.13B;Tunnel construction and maintenance
+42.21Z;Construction of fluid networks
+42.22Z;Construction of electrical and telecommunications networks
+42.91Z;Construction of maritime and fluvial structures
+42.99Z;Construction of other civil engineering works n.e.c.
+43.11Z;Demolition work
+43.12A;Standard earthworks and preparatory work
+43.12B;Specialized or large-scale earthworks
+43.13Z;Drilling and boring
+43.21A;Electrical installation work in all premises
+43.21B;Electrical installation work on public highways
+43.22A;Water and gas installation work on all premises
+43.22B;Thermal and air-conditioning equipment installation work
+43.29A;Insulation work
+43.29B;Other installation work n.e.c.
+43.31Z;Plastering work
+43.32A;Wood and PVC joinery work
+43.32B;Metal joinery and locksmith work
+43.32C;Shop fittings
+43.33Z;Floor and wall covering work
+43.34Z;Painting and glazing
+43.39Z;Other finishing work
+43.91A;Carpentry work
+43.91B;Elemental roofing work
+43.99A;Waterproofing work
+43.99B;Erection of metal structures
+43.99C;General masonry and building shell work
+43.99D;Other specialized construction work
+43.99E;Rental of construction equipment with operator
+45.11Z;Sale of cars and light motor vehicles
+45.19Z;Trade in other motor vehicles
+45.20A;Maintenance and repair of light motor vehicles
+45.20B;Maintenance and repair of other motor vehicles
+45.31Z;Wholesale of automotive equipment
+45.32Z;Retail sale of automotive equipment
+45.40Z;Trade and repair of motorcycles
+46.11Z;Intermediaries in agricultural raw materials, live animals, textile raw materials and semi-finished products
+46.12A;Fuel purchasing centers
+46.12B;Other intermediaries trading in fuels, metals, minerals and chemicals
+46.13Z;Intermediaries in wood and building materials
+46.14Z;Trade intermediaries in machinery, industrial equipment, ships and aircraft
+46.15Z;Agents involved in the sale of furniture, household goods and hardware
+46.16Z;Intermediaries in textiles, clothing, furs, footwear and leather goods
+46.17A;Food buying groups
+46.17B;Other food, beverage and tobacco intermediaries
+46.18Z;Intermediaries specializing in other specific products
+46.19A;Non-food central purchasing agencies
+46.19B;Other trade intermediaries in miscellaneous products
+46.21Z;Wholesale (business-to-business) of cereals, unmanufactured tobacco, seeds and livestock feed
+46.22Z;Wholesale (business-to-business) of flowers and plants
+46.23Z;Wholesale (business-to-business) of live animals
+46.24Z;Wholesale (business-to-business) of hides and skins
+46.31Z;Wholesale (intercompany) of fruit and vegetables
+46.32A;Meat wholesale (business-to-business)
+46.32B;Meat products wholesale (intercompany)
+46.32C;Poultry and game wholesale (intercompany)
+46.33Z;Dairy products, eggs, edible oils and fats wholesale (intercompany)
+46.34Z;Wholesale (business-to-business) of beverages
+46.35Z;Wholesale (business-to-business) of tobacco products
+46.36Z;Wholesale (business-to-business) of sugar, chocolate and confectionery
+46.37Z;Wholesale of coffee, tea, cocoa and spices
+46.38A;Wholesale (inter-company) of fish, crustaceans and molluscs
+46.38B;Miscellaneous specialized food wholesale (intercompany)
+46.39A;Wholesale (business-to-business) of frozen foods
+46.39B;Non-specialized food wholesale (business-to-business)
+46.41Z;Textile wholesale (intercompany)
+46.42Z;Clothing and footwear wholesale (intercompany)
+46.43Z;Wholesale (inter-company) of household appliances
+46.44Z;Wholesale (business-to-business) of crockery, glassware and cleaning products
+46.45Z;Wholesale (business-to-business) of perfumery and beauty products
+46.46Z;Pharmaceutical wholesale (business-to-business)
+46.47Z;Wholesale (business-to-business) of furniture, carpets and lighting equipment
+46.48Z;Wholesale (inter-company) of watches and jewelry
+46.49Z;Wholesale (business-to-business) of other household goods
+46.51Z;Wholesale (business-to-business) of computers, computer peripherals and software
+46.52Z;Wholesale (business-to-business) of electronic and telecommunications components and equipment
+46.61Z;Wholesale (business-to-business) of agricultural machinery and equipment
+46.62Z;Wholesale (business-to-business) of machine tools
+46.63Z;Mining, construction and civil engineering machinery wholesale (B2B)
+46.64Z;Wholesale (inter-company) of machinery for the textile and clothing industry
+46.65Z;Office furniture wholesale (B2B)
+46.66Z;Wholesale (business-to-business) of other office machinery and equipment
+46.69A;Wholesale (business-to-business) of electrical equipment
+46.69B;Wholesale (business-to-business) of miscellaneous industrial supplies and equipment
+46.69C;Wholesale (business-to-business) of miscellaneous supplies and equipment for trade and services
+46.71Z;Wholesale (business-to-business) of fuels and related products
+46.72Z;Wholesale (business-to-business) of ores and metals
+46.73A;Wholesale (business-to-business) of wood and building materials
+46.73B;Wholesale (business-to-business) of sanitary ware and decorative products
+46.74A;Hardware wholesale (business-to-business)
+46.74B;Plumbing and heating supplies wholesale (business-to-business)
+46.75Z;Wholesale (business-to-business) of chemical products
+46.76Z;Wholesale (business-to-business) of other intermediate products
+46.77Z;Wholesale (business-to-business) of waste and scrap
+46.90Z;Non-specialized wholesale (business-to-business)
+47.11A;Retail sale of frozen foods
+47.11B;General food trade
+47.11C;Convenience stores
+47.11D;Supermarkets
+47.11E;Multiples stores
+47.11F;Hypermarkets
+47.19A;Department stores
+47.19B;Other non-specialized retail
+47.21Z;Retail sale of fruit and vegetables in specialized stores
+47.22Z;Retail sale of meat and meat products in specialized stores
+47.23Z;Retail sale of fish, crustaceans and molluscs in specialized stores
+47.24Z;Retail sale of bread, pastries and confectionery in specialized stores
+47.25Z;Retail sale of beverages in specialized stores
+47.26Z;Retail sale of tobacco products in specialized stores
+47.29Z;Other food retailing in specialized stores
+47.30Z;Fuel retailing in specialized stores
+47.41Z;Retail sale of computers, peripherals and software in specialized stores
+47.42Z;Retail sale of telecommunications equipment in specialized stores
+47.43Z;Retail sale of audio and video equipment in specialized stores
+47.51Z;Retail sale of textiles in specialized stores
+47.52A;Retail sale of hardware, paint and glass in small stores (less than 400 m²)
+47.52B;Retail sale of hardware, paints and glass in superstores (400 m² and over)
+47.53Z;Retail sale of carpets, wall and floor coverings in specialized stores
+47.54Z;Retail sale of household appliances in specialized stores
+47.59A;Retail sale of furniture
+47.59B;Retail sale of other household equipment
+47.61Z;Retail sale of books in specialized stores
+47.62Z;Retail sale of newspapers and stationery in specialized stores
+47.63Z;Retail sale of music and video recordings in specialized stores
+47.64Z;Retail sale of sporting goods in specialized stores
+47.65Z;Retail sale of games and toys in specialized stores
+47.71Z;Clothing retail in specialized stores
+47.72A;Footwear retailing
+47.72B;Retail sale of leather goods and travel goods
+47.73Z;Retail sale of pharmaceutical products in specialized stores
+47.74Z;Retail sale of medical and orthopedic articles in specialized stores
+47.75Z;Retail sale of perfume and beauty products in specialized stores
+47.76Z;Retail sale of flowers, plants, seeds, fertilizers, pets and pet food in specialized stores
+47.77Z;Retail sale of watches and jewelry in specialized stores
+47.78A;Optical retailing
+47.78B;Retail sale of coal and fuels
+47.78C;Other miscellaneous specialized retail
+47.79Z;Retail sale of second-hand goods in stores
+47.81Z;Food retailing in stalls and markets
+47.82Z;Textile, clothing and footwear retail in stalls and markets
+47.89Z;Other stall and market retail
+47.91A;General catalog mail order
+47.91B;Distance selling from specialized catalogs
+47.99A;Home shopping
+47.99B;Automated vending machines and other non-store, stall or market retail n.e.c.
+49.10Z;Intercity passenger rail transport
+49.20Z;Freight rail transport
+49.31Z;Urban and suburban passenger transport
+49.32Z;Passenger cab transport
+49.39A;Scheduled passenger road transport
+49.39B;Other passenger road transport
+49.39C;Cable cars and ski lifts
+49.41A;Intercity road freight transport
+49.41B;Local road freight transport
+49.41C;Truck rental with driver
+49.42Z;Moving services
+49.50Z;Pipeline transportation
+50.10Z;Maritime and coastal passenger transport
+50.20Z;Sea and coastal freight transport
+50.30Z;River passenger transport
+50.40Z;River freight transport
+51.10Z;Passenger air transport
+51.21Z;Air freight transport
+51.22Z;Space transportation
+52.10A;Cold storage and warehousing
+52.10B;Non-refrigerated warehousing and storage
+52.21Z;Services incidental to land transport
+52.22Z;Services incidental to water transportation
+52.23Z;Services incidental to air transportation
+52.24A;Port handling
+52.24B;Non-port handling
+52.29A;Courier and express freight
+52.29B;Chartering and organization of transport
+53.10Z;Postal activities as part of a universal service obligation
+53.20Z;Other postal and courier activities
+55.10Z;Hotels and similar accommodation
+55.20Z;Tourist accommodation and other short-term accommodation
+55.30Z;Campgrounds and parks for caravans or recreational vehicles
+55.90Z;Other accommodation
+56.10A;Traditional catering
+56.10B;Cafeterias and other self-service outlets
+56.10C;Fast-food restaurants
+56.21Z;Catering services
+56.29A;Contract catering
+56.29B;Other food services n.e.c.
+56.30Z;Drinks outlets
+58.11Z;Book publishing
+58.12Z;Publishing of directories and address files
+58.13Z;Newspaper publishing
+58.14Z;Publishing of magazines and periodicals
+58.19Z;Other publishing activities
+58.21Z;Electronic games publishing
+58.29A;System and network software publishing
+58.29B;Software development tools and languages publishing
+58.29C;Application software publishing
+59.11A;Film and TV program production
+59.11B;Institutional and advertising film production
+59.11C;Motion picture production
+59.12Z;Post-production of motion pictures, video and TV programs
+59.13A;Motion picture distribution
+59.13B;Video editing and distribution
+59.14Z;Motion picture projection
+59.20Z;Sound recording and music publishing
+60.10Z;Radio program publishing and broadcasting
+60.20A;Publishing of general-interest channels
+60.20B;Theme channel publishing
+61.10Z;Wired telecommunications
+61.20Z;Wireless telecommunications
+61.30Z;Satellite telecommunications
+61.90Z;Other telecommunications activities
+62.01Z;Computer programming
+62.02A;IT systems and software consulting
+62.02B;Third-party maintenance of IT systems and applications
+62.03Z;IT facilities management
+62.09Z;Other IT activities
+63.11Z;Data processing, hosting and related activities
+63.12Z;Internet portals
+63.91Z;News agency activities
+63.99Z;Other information services n.e.c.
+64.11Z;Central banking activities
+64.19Z;Other monetary intermediation
+64.20Z;Activities of holding companies
+64.30Z;Investment funds and similar financial entities
+64.91Z;Leasing
+64.92Z;Other credit distribution
+64.99Z;Other financial service activities, except insurance and pension funding, n.e.c.
+65.11Z;Life insurance
+65.12Z;Other insurance
+65.20Z;Reinsurance
+65.30Z;Pension funds
+66.11Z;Administration of financial markets
+66.12Z;Securities and commodities brokerage
+66.19A;Legal support for asset management
+66.19B;Other activities auxiliary to financial services, except insurance and pension funding, n.e.c.
+66.21Z;Risk and damage assessment
+66.22Z;Activities of insurance agents and brokers
+66.29Z;Other activities auxiliary to insurance and pension funding
+66.30Z;Fund management activities
+68.10Z;Real estate brokerage activities
+68.20A;Rental of dwellings
+68.20B;Rental of land and other real estate
+68.31Z;Real estate agencies
+68.32A;Administration of buildings and other real estate assets
+68.32B;Legal support for real estate asset management
+69.10Z;Legal services
+69.20Z;Accounting services
+70.10Z;Head office activities
+70.21Z;Public relations and communications consultancy
+70.22Z;Business and other management consultancy
+71.11Z;Architectural activities
+71.12A;Surveying activities
+71.12B;Engineering, technical studies
+71.20A;Automotive technical control
+71.20B;Technical analysis, testing and inspection
+72.11Z;Biotechnology research and development
+72.19Z;Research and development in other physical and natural sciences
+72.20Z;Research and development in human and social sciences
+73.11Z;Advertising agency activities
+73.12Z;Media management
+73.20Z;Market research and surveys
+74.10Z;Specialized design activities
+74.20Z;Photographic activities
+74.30Z;Translation and interpreting
+74.90A;Construction economists
+74.90B;Various specialized, scientific and technical activities
+75.00Z;Veterinary activities
+77.11A;Short-term rental of cars and light motor vehicles
+77.11B;Long-term rental of cars and light motor vehicles
+77.12Z;Truck rental and leasing
+77.21Z;Rental and leasing of leisure and sporting goods
+77.22Z;Rental of videocassettes and video discs
+77.29Z;Rental and leasing of other personal and household goods
+77.31Z;Rental and leasing of agricultural machinery and equipment
+77.32Z;Rental and leasing of construction machinery and equipment
+77.33Z;Rental and leasing of office machines and computer equipment
+77.34Z;Rental and leasing of water transport equipment
+77.35Z;Rental and leasing of air transport equipment
+77.39Z;Rental and leasing of other machinery, equipment and tangible goods n.e.c.
+77.40Z;Rental and leasing of intellectual property and similar products, except copyrighted works
+78.10Z;Activities of employment agencies
+78.20Z;Activities of temporary employment agencies
+78.30Z;Other provision of human resources
+79.11Z;Travel agency activities
+79.12Z;Tour operator activities
+79.90Z;Other reservation services and related activities
+80.10Z;Private security activities
+80.20Z;Security systems activities
+80.30Z;Investigation activities
+81.10Z;Combined building support activities
+81.21Z;Routine building cleaning
+81.22Z;Other building and industrial cleaning activities
+81.29A;Disinfection, disinsectisation, rodent control
+81.29B;Other cleaning activities n.e.c.
+81.30Z;Landscaping services
+82.11Z;Combined office and administrative services
+82.19Z;Photocopying, document preparation and other specialized office support activities
+82.20Z;Call center activities
+82.30Z;Trade fair and convention organization
+82.91Z;Activities of bill collection agencies and customer financial information companies
+82.92Z;Packaging activities
+82.99Z;Other business support activities n.e.c.
+84.11Z;General public administration
+84.12Z;Public administration (trusteeship) of health, education, culture and social services, other than social security
+84.13Z;Public administration of economic activities
+84.21Z;Foreign Affairs
+84.22Z;Defense
+84.23Z;Justice
+84.24Z;Public order and security activities
+84.25Z;Fire and rescue services
+84.30A;General social security activities
+84.30B;Management of supplementary pensions
+84.30C;Social income distribution
+85.10Z;Pre-primary education
+85.20Z;Primary education
+85.31Z;General secondary education
+85.32Z;Technical or vocational secondary education
+85.41Z;Post-secondary non-tertiary education
+85.42Z;Higher education
+85.51Z;Sports and leisure education
+85.52Z;Cultural education
+85.53Z;Driving instruction
+85.59A;Adult continuing education
+85.59B;Other education
+85.60Z;Teaching support activities
+86.10Z;Hospital activities
+86.21Z;General practitioners' activities
+86.22A;Diagnostic and radiotherapy activities
+86.22B;Surgical activities
+86.22C;Other specialist activities
+86.23Z;Dental practice
+86.90A;Ambulances
+86.90B;Medical analysis laboratories
+86.90C;Organ procurement centers and banks
+86.90D;Activities of nurses and midwives
+86.90E;Activities of physiotherapists, orthopaedic technicians and chiropodists
+86.90F;Human health activities not elsewhere classified
+87.10A;Residential care for the elderly
+87.10B;Residential care for disabled children
+87.10C;Residential care for disabled adults and other residential care
+87.20A;Social housing for the mentally disabled and mentally ill
+87.20B;Social housing for drug addicts
+87.30A;Social housing for the elderly
+87.30B;Social housing for the physically disabled
+87.90A;Social housing for children in difficulty
+87.90B;Social housing for adults and families in difficulty and other social housing
+88.10A;Help at home
+88.10B;Home or support without accommodation for disabled adults or the elderly
+88.10C;Help through work
+88.91A;Home for young children
+88.91B;Homeless care for disabled children
+88.99A;Other residential care for children and adolescents
+88.99B;Social work without accommodation n.e.c.
+90.01Z;Performing arts
+90.02Z;Support activities for performing arts
+90.03A;Artistic creation in the plastic arts
+90.03B;Other artistic creation
+90.04Z;Venue management
+91.01Z;Library and archive management
+91.02Z;Museum management
+91.03Z;Management of historical sites and monuments and similar tourist attractions
+91.04Z;Management of botanical and zoological gardens and nature reserves
+92.00Z;Organization of games of chance and gambling
+93.11Z;Management of sports facilities
+93.12Z;Sports club activities
+93.13Z;Activities of fitness centers
+93.19Z;Other sports-related activities
+93.21Z;Amusement and theme park activities
+93.29Z;Other recreational and leisure activities
+94.11Z;Activities of employers' and consular organizations
+94.12Z;Activities of professional organizations
+94.20Z;Activities of trade unions
+94.91Z;Activities of religious organizations
+94.92Z;Activities of political organizations
+94.99Z;Other voluntary organizations
+95.11Z;Repair of computers and peripheral equipment
+95.12Z;Repair of communications equipment
+95.21Z;Consumer electronics repair
+95.22Z;Repair of household appliances and home and garden equipment
+95.23Z;Repair of footwear and leather goods
+95.24Z;Repair of furniture and household equipment
+95.25Z;Repair of watches and jewelry
+95.29Z;Repair of other personal and household goods
+96.01A;Laundry and dry cleaning wholesale
+96.01B;Retail laundry-dyeing
+96.02A;Hairdressing
+96.02B;Beauty care
+96.03Z;Funeral services
+96.04Z;Body care
+96.09Z;Other personal services n.e.c.
+97.00Z;Activities of households as employers of domestic personnel
+98.10Z;Undifferentiated goods-producing activities of private households for own use
+98.20Z;Undifferentiated goods-producing activities of households for own use
+99.00Z;Activities of extra-territorial organizations and bodies
