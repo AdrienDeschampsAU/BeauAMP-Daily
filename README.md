@@ -46,7 +46,3 @@ Tested with Python version 3.12.3, with the following packages:
 * `pandas`: 2.3.1 
 * `numpy`: 1.26.4
 * `googleapiclient`: 2.176.0
-
-
-# Data
-The produced database is available online on ---, under three different forms:
