@@ -124,7 +124,7 @@ institutions['SSE'] = institutions['SSE'].replace({"O": True, "N": False})
 
 institutions['MISSION'] = institutions['MISSION'].replace({"O": True, "N": False})
 
-institutions['LEGAL_STATUS_NAME'] = institutions['LEGAL_STATUS'].map(dictionnaire_legal)
+institutions['LEGAL_STATUS_NAME'] = institutions['LEGAL_STATUS'].astype(str).map(dictionnaire_legal)
 
 institutions['STAFF'] = pd.to_numeric(institutions['STAFF'], errors='coerce').astype('Int64')
 
@@ -202,3 +202,4 @@ del institutions
 df = df.astype(str)
 df = df.replace("None", "nan")
 df.to_parquet("consolidated_data.parquet")
+
